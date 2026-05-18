@@ -1,0 +1,5 @@
+﻿ano,arquivo,assunto_filtro,processos_no_assunto,amostra_planejada,processos_amostrados,amostra_censitaria,seed_base,seed_ano
+2018,processo_eleitoral_2018.csv,Propaganda Política - Propaganda Eleitoral - Bem Público,95,385,95,True,20260511,20262529
+2020,processo_eleitoral_2020.csv,Propaganda Política - Propaganda Eleitoral - Bem Público,218,385,218,True,20260511,20262531
+2022,processo_eleitoral_2022.csv,Propaganda Política - Propaganda Eleitoral - Bem Público,152,385,152,True,20260511,20262533
+2024,processo_eleitoral_2024.csv,Propaganda Política - Propaganda Eleitoral - Bem Público,2002,385,385,False,20260511,20262535

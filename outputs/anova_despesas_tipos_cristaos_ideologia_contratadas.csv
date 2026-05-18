@@ -1,0 +1,809 @@
+﻿comparacao,ANO_ELEICAO_ANALISE,ESFERA,tipo_despesa,variavel,teste,n_grupos_validos,estatistica,p_valor
+cristaos_direita_centro_esquerda,2012,municipal,Publicidade por materiais impressos,valor_despesa,anova_um_fator,3,4.145814735059108,0.015852949644194942
+cristaos_direita_centro_esquerda,2012,municipal,Publicidade por materiais impressos,pct_despesa_tipo,anova_um_fator,3,2.970927364277159,0.051293019436648775
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Publicidade por materiais impressos,valor_despesa,anova_um_fator,3,0.623147774434508,0.5362709225978155
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Publicidade por materiais impressos,pct_despesa_tipo,anova_um_fator,3,0.6624211300149241,0.5156201177720341
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Diversas a especificar,valor_despesa,anova_um_fator,3,0.8057732131724099,0.44676625509353013
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Diversas a especificar,pct_despesa_tipo,anova_um_fator,3,2.6153761804277735,0.07318147629976228
+cristaos_direita_centro_esquerda,2012,municipal,Materiais de expediente,valor_despesa,anova_um_fator,3,1.9727047911947364,0.1391247411647213
+cristaos_direita_centro_esquerda,2012,municipal,Materiais de expediente,pct_despesa_tipo,anova_um_fator,3,0.48092417788022734,0.6182235665817033
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Cessao ou locacao de veiculos,valor_despesa,anova_um_fator,3,5.014207734253534,0.00665665604055917
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Cessao ou locacao de veiculos,pct_despesa_tipo,anova_um_fator,3,3.9515832881311543,0.01924897036414824
+cristaos_direita_centro_esquerda,2012,municipal,Combustiveis e lubrificantes,valor_despesa,anova_um_fator,3,7.1155133201179,0.0008157958932192412
+cristaos_direita_centro_esquerda,2012,municipal,Combustiveis e lubrificantes,pct_despesa_tipo,anova_um_fator,3,7.028262342507469,0.0008900820458541341
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Servicos prestados por terceiros,valor_despesa,anova_um_fator,3,0.08971568565256577,0.9141916720212502
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Servicos prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,1.6428896113167866,0.1934633210601219
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Combustiveis e lubrificantes,valor_despesa,anova_um_fator,3,11.131917591483631,1.4787573643892647e-05
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Combustiveis e lubrificantes,pct_despesa_tipo,anova_um_fator,3,7.535499558451501,0.0005362948789294561
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Materiais de expediente,valor_despesa,anova_um_fator,3,0.7423704652675828,0.47600587795863725
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Materiais de expediente,pct_despesa_tipo,anova_um_fator,3,1.0481371337508543,0.35062196521921496
+cristaos_direita_centro_esquerda,2012,municipal,"Baixa de Estimaveis - Publicidade por placas, estandartes e faixas",valor_despesa,anova_um_fator,3,0.9611046839273995,0.3824992413639945
+cristaos_direita_centro_esquerda,2012,municipal,"Baixa de Estimaveis - Publicidade por placas, estandartes e faixas",pct_despesa_tipo,anova_um_fator,3,3.827944358846655,0.02178054909695528
+cristaos_direita_centro_esquerda,2012,municipal,"Publicidade por placas, estandartes e faixas",valor_despesa,anova_um_fator,3,2.171973598836518,0.11399677338894208
+cristaos_direita_centro_esquerda,2012,municipal,"Publicidade por placas, estandartes e faixas",pct_despesa_tipo,anova_um_fator,3,2.741897848624945,0.06448782642501283
+cristaos_direita_centro_esquerda,2012,municipal,"Baixa de Estimaveis - Producao de jingles, vinhetas e slogans",valor_despesa,anova_um_fator,3,0.1694478123632222,0.8441328027945152
+cristaos_direita_centro_esquerda,2012,municipal,"Baixa de Estimaveis - Producao de jingles, vinhetas e slogans",pct_despesa_tipo,anova_um_fator,3,0.10929680999027044,0.8964651804875654
+cristaos_direita_centro_esquerda,2012,municipal,Diversas a especificar,valor_despesa,anova_um_fator,3,0.497453491698761,0.6080895567128669
+cristaos_direita_centro_esquerda,2012,municipal,Diversas a especificar,pct_despesa_tipo,anova_um_fator,3,1.432191121344791,0.23882548021798058
+cristaos_direita_centro_esquerda,2012,municipal,Despesas com transporte ou deslocamento,valor_despesa,anova_um_fator,3,1.723505583087787,0.1784831705387112
+cristaos_direita_centro_esquerda,2012,municipal,Despesas com transporte ou deslocamento,pct_despesa_tipo,anova_um_fator,3,0.34726438771852913,0.7066255006864365
+cristaos_direita_centro_esquerda,2012,municipal,Doacoes financeiras a outros candidatos/comites financeiros/partido,valor_despesa,anova_um_fator,3,0.5080868182159517,0.6016583278212483
+cristaos_direita_centro_esquerda,2012,municipal,Doacoes financeiras a outros candidatos/comites financeiros/partido,pct_despesa_tipo,anova_um_fator,3,1.9407029821282167,0.1436475092694627
+cristaos_direita_centro_esquerda,2012,municipal,"Producao de programas de radio, televisao ou video",valor_despesa,anova_um_fator,3,0.5587680144701778,0.571927925598335
+cristaos_direita_centro_esquerda,2012,municipal,"Producao de programas de radio, televisao ou video",pct_despesa_tipo,anova_um_fator,3,1.072068783427234,0.3423320422105962
+cristaos_direita_centro_esquerda,2012,municipal,Cessao ou locacao de veiculos,valor_despesa,anova_um_fator,3,2.0254050941818664,0.13198496241430008
+cristaos_direita_centro_esquerda,2012,municipal,Cessao ou locacao de veiculos,pct_despesa_tipo,anova_um_fator,3,1.783016450791461,0.1681742474563962
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Comicios,valor_despesa,anova_um_fator,3,1.4199982001282734,0.24175459331194113
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Comicios,pct_despesa_tipo,anova_um_fator,3,1.4047610465199671,0.24546558245069452
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Energia eletrica,valor_despesa,anova_um_fator,3,0.7438608331263231,0.4752970691899312
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Energia eletrica,pct_despesa_tipo,anova_um_fator,3,0.07775714161315361,0.9251895499284829
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Locacao/cessao de bens imoveis,valor_despesa,anova_um_fator,3,0.3637374724419401,0.6950812209919353
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Locacao/cessao de bens imoveis,pct_despesa_tipo,anova_um_fator,3,2.9688572425003024,0.0513992601843674
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Locacao/cessao de bens moveis,valor_despesa,anova_um_fator,3,1.7056955021254334,0.18168953268035373
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Locacao/cessao de bens moveis,pct_despesa_tipo,anova_um_fator,3,0.8285841896007671,0.4366917778679384
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Publicidade por carros de som,valor_despesa,anova_um_fator,3,0.5438279248448845,0.5805359404797659
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Publicidade por carros de som,pct_despesa_tipo,anova_um_fator,3,0.1972458509882649,0.820991398411266
+cristaos_direita_centro_esquerda,2012,municipal,Despesas com pessoal,valor_despesa,anova_um_fator,3,3.9669840542455903,0.018954982840789798
+cristaos_direita_centro_esquerda,2012,municipal,Despesas com pessoal,pct_despesa_tipo,anova_um_fator,3,4.795871178338646,0.00827945828854698
+cristaos_direita_centro_esquerda,2012,municipal,"Baixa de Estimaveis - Producao de programas de radio, televisao ou video",valor_despesa,anova_um_fator,3,0.6355231469755147,0.5296759456639181
+cristaos_direita_centro_esquerda,2012,municipal,"Baixa de Estimaveis - Producao de programas de radio, televisao ou video",pct_despesa_tipo,anova_um_fator,3,2.493871749080962,0.08263188752683537
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Alimentacao,valor_despesa,anova_um_fator,3,0.04147148465265813,0.9593768278149319
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Alimentacao,pct_despesa_tipo,anova_um_fator,3,2.089507369087767,0.12379258193628212
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Despesas com pessoal,valor_despesa,anova_um_fator,3,4.775302985451245,0.008451378238389795
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Despesas com pessoal,pct_despesa_tipo,anova_um_fator,3,4.479719421446995,0.011355338060365127
+cristaos_direita_centro_esquerda,2012,municipal,Bens permanentes,valor_despesa,anova_um_fator,3,0.8819349371155886,0.41400762864671087
+cristaos_direita_centro_esquerda,2012,municipal,Bens permanentes,pct_despesa_tipo,anova_um_fator,3,0.5699849068722825,0.5655491067731657
+cristaos_direita_centro_esquerda,2012,municipal,Telefone,valor_despesa,anova_um_fator,3,0.026146307532448565,0.974192602327953
+cristaos_direita_centro_esquerda,2012,municipal,Telefone,pct_despesa_tipo,anova_um_fator,3,1.0227431940046667,0.35963809349524906
+cristaos_direita_centro_esquerda,2012,municipal,"Producao de jingles, vinhetas e slogans",valor_despesa,anova_um_fator,3,1.6310013482655852,0.1957763619715842
+cristaos_direita_centro_esquerda,2012,municipal,"Producao de jingles, vinhetas e slogans",pct_despesa_tipo,anova_um_fator,3,2.338086589428053,0.09655558351062152
+cristaos_direita_centro_esquerda,2012,municipal,Servicos prestados por terceiros,valor_despesa,anova_um_fator,3,0.573432438248354,0.5636028985076997
+cristaos_direita_centro_esquerda,2012,municipal,Servicos prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.5320409010274167,0.5874186049189074
+cristaos_direita_centro_esquerda,2012,municipal,Comicios,valor_despesa,anova_um_fator,3,0.7373078043183612,0.4784215496241637
+cristaos_direita_centro_esquerda,2012,municipal,Comicios,pct_despesa_tipo,anova_um_fator,3,0.5338614405799795,0.5863502526930421
+cristaos_direita_centro_esquerda,2012,municipal,Publicidade por jornais e revistas,valor_despesa,anova_um_fator,3,0.46588631248522994,0.6275898468748313
+cristaos_direita_centro_esquerda,2012,municipal,Publicidade por jornais e revistas,pct_despesa_tipo,anova_um_fator,3,0.4859836774836977,0.6151038120017192
+cristaos_direita_centro_esquerda,2012,municipal,Publicidade por carros de som,valor_despesa,anova_um_fator,3,2.0520401708087217,0.128517086004673
+cristaos_direita_centro_esquerda,2012,municipal,Publicidade por carros de som,pct_despesa_tipo,anova_um_fator,3,0.5118564165569566,0.5993947767629604
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Publicidade por jornais e revistas,valor_despesa,anova_um_fator,3,1.9089822254624105,0.1482756658243875
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Publicidade por jornais e revistas,pct_despesa_tipo,anova_um_fator,3,0.32373084047320727,0.7234511828879145
+cristaos_direita_centro_esquerda,2012,municipal,"Baixa de Estimaveis - Impostos, contribuicoes e taxas",valor_despesa,anova_um_fator,3,0.5973758900782796,0.5502698420242167
+cristaos_direita_centro_esquerda,2012,municipal,"Baixa de Estimaveis - Impostos, contribuicoes e taxas",pct_despesa_tipo,anova_um_fator,3,0.5973758900782802,0.5502698420242165
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Despesas com transporte ou deslocamento,valor_despesa,anova_um_fator,3,0.8350012064602459,0.4338988726990504
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Despesas com transporte ou deslocamento,pct_despesa_tipo,anova_um_fator,3,0.0952318070387428,0.9091628389717098
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Encargos sociais,valor_despesa,anova_um_fator,3,2.0592163935979855,0.12759843002502316
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Encargos sociais,pct_despesa_tipo,anova_um_fator,3,1.6635127509763836,0.18951542401750973
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Telefone,valor_despesa,anova_um_fator,3,0.7548823615953598,0.47008797088354803
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Telefone,pct_despesa_tipo,anova_um_fator,3,1.6095395908595955,0.2000223335440831
+cristaos_direita_centro_esquerda,2012,municipal,Criacao e inclusao de paginas na internet,valor_despesa,anova_um_fator,3,3.5029873071556965,0.030137742324766032
+cristaos_direita_centro_esquerda,2012,municipal,Criacao e inclusao de paginas na internet,pct_despesa_tipo,anova_um_fator,3,1.5770684193747349,0.2066221326875456
+cristaos_direita_centro_esquerda,2012,municipal,Alimentacao,valor_despesa,anova_um_fator,3,3.0627631123122256,0.04679444682484281
+cristaos_direita_centro_esquerda,2012,municipal,Alimentacao,pct_despesa_tipo,anova_um_fator,3,1.2171136696567812,0.29611965322178674
+cristaos_direita_centro_esquerda,2012,municipal,Correspondencias e despesas postais,valor_despesa,anova_um_fator,3,0.4540497021931404,0.6350619521120252
+cristaos_direita_centro_esquerda,2012,municipal,Correspondencias e despesas postais,pct_despesa_tipo,anova_um_fator,3,1.9646686322087403,0.140246908701533
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Publicidade por telemarketing,valor_despesa,anova_um_fator,3,1.0524240296876994,0.3491223614122905
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Publicidade por telemarketing,pct_despesa_tipo,anova_um_fator,3,0.6579712302076839,0.51791943765035
+cristaos_direita_centro_esquerda,2012,municipal,Energia eletrica,valor_despesa,anova_um_fator,3,1.1118913805109236,0.32896972154591003
+cristaos_direita_centro_esquerda,2012,municipal,Energia eletrica,pct_despesa_tipo,anova_um_fator,3,0.441281951009008,0.6432216429845505
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Criacao e inclusao de paginas na internet,valor_despesa,anova_um_fator,3,5.723469962610117,0.003277174967485669
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Criacao e inclusao de paginas na internet,pct_despesa_tipo,anova_um_fator,3,3.0170468603345437,0.048982246128561016
+cristaos_direita_centro_esquerda,2012,municipal,Eventos de promocao da candidatura,valor_despesa,anova_um_fator,3,1.7849617860275833,0.16784750610299776
+cristaos_direita_centro_esquerda,2012,municipal,Eventos de promocao da candidatura,pct_despesa_tipo,anova_um_fator,3,0.024549519332226048,0.9757494177008946
+cristaos_direita_centro_esquerda,2012,municipal,Locacao/cessao de bens imoveis,valor_despesa,anova_um_fator,3,0.6821627746151865,0.5055418528424481
+cristaos_direita_centro_esquerda,2012,municipal,Locacao/cessao de bens imoveis,pct_despesa_tipo,anova_um_fator,3,1.0234822071253407,0.35937245916077926
+cristaos_direita_centro_esquerda,2012,municipal,Agua,valor_despesa,anova_um_fator,3,1.4412359415642175,0.23667559282799389
+cristaos_direita_centro_esquerda,2012,municipal,Agua,pct_despesa_tipo,anova_um_fator,3,0.8978162976891533,0.4074855074362852
+cristaos_direita_centro_esquerda,2012,municipal,Locacao/cessao de bens moveis,valor_despesa,anova_um_fator,3,1.1452121917855769,0.3181907662930829
+cristaos_direita_centro_esquerda,2012,municipal,Locacao/cessao de bens moveis,pct_despesa_tipo,anova_um_fator,3,0.9279469300870639,0.39539262771822076
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Pre-instalacao fisica de comite de campanha de candidato,valor_despesa,anova_um_fator,3,2.948410108493921,0.052460523447320544
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Pre-instalacao fisica de comite de campanha de candidato,pct_despesa_tipo,anova_um_fator,3,1.7170052482810694,0.1796468191067709
+cristaos_direita_centro_esquerda,2012,municipal,"Baixa de Estimaveis - Encargos financeiros, taxas bancarias e/ou op. cartao de credito",valor_despesa,anova_um_fator,3,0.8051439342025247,0.4470474468574044
+cristaos_direita_centro_esquerda,2012,municipal,"Baixa de Estimaveis - Encargos financeiros, taxas bancarias e/ou op. cartao de credito",pct_despesa_tipo,anova_um_fator,3,0.9497523727075425,0.3868655415009746
+cristaos_direita_centro_esquerda,2012,municipal,Publicidade por telemarketing,valor_despesa,anova_um_fator,3,0.23792875096617438,0.7882625271179459
+cristaos_direita_centro_esquerda,2012,municipal,Publicidade por telemarketing,pct_despesa_tipo,anova_um_fator,3,0.28666734964850904,0.7507665098544053
+cristaos_direita_centro_esquerda,2012,municipal,Reembolsos de gastos realizados por eleitores,valor_despesa,anova_um_fator,3,1.3834620606093326,0.25074859894532975
+cristaos_direita_centro_esquerda,2012,municipal,Reembolsos de gastos realizados por eleitores,pct_despesa_tipo,anova_um_fator,3,1.3834620606093289,0.2507485989453307
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Correspondencias e despesas postais,valor_despesa,anova_um_fator,3,0.6738628294320235,0.5097548114443039
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Correspondencias e despesas postais,pct_despesa_tipo,anova_um_fator,3,2.8817597173352936,0.05607439846849316
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Eventos de promocao da candidatura,valor_despesa,anova_um_fator,3,0.4871735779294883,0.6143723935720279
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Eventos de promocao da candidatura,pct_despesa_tipo,anova_um_fator,3,0.8202915032000474,0.4403276869341267
+cristaos_direita_centro_esquerda,2012,municipal,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",valor_despesa,anova_um_fator,3,1.0667212275636395,0.3441672612287818
+cristaos_direita_centro_esquerda,2012,municipal,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",pct_despesa_tipo,anova_um_fator,3,0.4457159617230153,0.6403761124351826
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Agua,valor_despesa,anova_um_fator,3,0.589794044684974,0.5544573478821018
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Agua,pct_despesa_tipo,anova_um_fator,3,0.44138989924177924,0.6431522171395561
+cristaos_direita_centro_esquerda,2012,municipal,Pre-instalacao fisica de comite de campanha de candidato,valor_despesa,anova_um_fator,3,0.5946841138891521,0.5517528947972188
+cristaos_direita_centro_esquerda,2012,municipal,Pre-instalacao fisica de comite de campanha de candidato,pct_despesa_tipo,anova_um_fator,3,0.14264314842052864,0.8670648797357217
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Pesquisas ou testes eleitorais,valor_despesa,anova_um_fator,3,0.46458005189235185,0.628410115521925
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Pesquisas ou testes eleitorais,pct_despesa_tipo,anova_um_fator,3,0.9851621635126246,0.37340851926799246
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Baixa de recursos estimaveis em dinheiro,valor_despesa,anova_um_fator,3,0.5973758900782798,0.5502698420242166
+cristaos_direita_centro_esquerda,2012,municipal,Baixa de Estimaveis - Baixa de recursos estimaveis em dinheiro,pct_despesa_tipo,anova_um_fator,3,0.5973758900782803,0.5502698420242164
+cristaos_direita_centro_esquerda,2012,municipal,Pesquisas ou testes eleitorais,valor_despesa,anova_um_fator,3,1.383462060609334,0.25074859894532936
+cristaos_direita_centro_esquerda,2012,municipal,Pesquisas ou testes eleitorais,pct_despesa_tipo,anova_um_fator,3,1.3834620606093295,0.2507485989453305
+cristaos_direita_centro_esquerda,2014,federal,Cessao ou locacao de veiculos,valor_despesa,anova_um_fator,3,2.5393231975977604,0.08097865347697648
+cristaos_direita_centro_esquerda,2014,federal,Cessao ou locacao de veiculos,pct_despesa_tipo,anova_um_fator,3,2.396471030704446,0.09315260661409078
+cristaos_direita_centro_esquerda,2014,federal,Publicidade por materiais impressos,valor_despesa,anova_um_fator,3,4.672638528151717,0.010189354335493221
+cristaos_direita_centro_esquerda,2014,federal,Publicidade por materiais impressos,pct_despesa_tipo,anova_um_fator,3,4.320721270407173,0.014309128219823025
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Diversas a especificar,valor_despesa,anova_um_fator,3,0.5631301168482027,0.5701532254115126
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Diversas a especificar,pct_despesa_tipo,anova_um_fator,3,0.38195908798507067,0.6829254035874883
+cristaos_direita_centro_esquerda,2014,federal,Combustiveis e lubrificantes,valor_despesa,anova_um_fator,3,3.6765081112508464,0.026706535973176182
+cristaos_direita_centro_esquerda,2014,federal,Combustiveis e lubrificantes,pct_despesa_tipo,anova_um_fator,3,0.2871510716095398,0.7506485151063306
+cristaos_direita_centro_esquerda,2014,federal,Publicidade por jornais e revistas,valor_despesa,anova_um_fator,3,1.761116250892957,0.17400390127292303
+cristaos_direita_centro_esquerda,2014,federal,Publicidade por jornais e revistas,pct_despesa_tipo,anova_um_fator,3,2.289264140303075,0.10348742030147957
+cristaos_direita_centro_esquerda,2014,estadual,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",valor_despesa,anova_um_fator,3,5.136570334778869,0.006151933875233006
+cristaos_direita_centro_esquerda,2014,estadual,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",pct_despesa_tipo,anova_um_fator,3,1.6209813383236498,0.1986114352120054
+cristaos_direita_centro_esquerda,2014,estadual,"Producao de jingles, vinhetas e slogans",valor_despesa,anova_um_fator,3,1.5596899976812697,0.21109383222523614
+cristaos_direita_centro_esquerda,2014,estadual,"Producao de jingles, vinhetas e slogans",pct_despesa_tipo,anova_um_fator,3,0.8633013811103486,0.42231616304916325
+cristaos_direita_centro_esquerda,2014,estadual,Publicidade por materiais impressos,valor_despesa,anova_um_fator,3,5.987580680882057,0.0026697640855854396
+cristaos_direita_centro_esquerda,2014,estadual,Publicidade por materiais impressos,pct_despesa_tipo,anova_um_fator,3,3.9383620615520947,0.020010625790385136
+cristaos_direita_centro_esquerda,2014,estadual,Servicos prestados por terceiros,valor_despesa,anova_um_fator,3,1.9443325525280226,0.1440271849100592
+cristaos_direita_centro_esquerda,2014,estadual,Servicos prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.5233574885954637,0.592811254140168
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Publicidade por materiais impressos,valor_despesa,anova_um_fator,3,3.6623305748827364,0.027076786607797443
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Publicidade por materiais impressos,pct_despesa_tipo,anova_um_fator,3,3.845395603987787,0.02266930837352293
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Despesas com pessoal,valor_despesa,anova_um_fator,3,2.4296399804397733,0.0901708130801322
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Despesas com pessoal,pct_despesa_tipo,anova_um_fator,3,0.9296072546886939,0.3960851560388817
+cristaos_direita_centro_esquerda,2014,estadual,Alimentacao,valor_despesa,anova_um_fator,3,0.867145716512685,0.4207006327708661
+cristaos_direita_centro_esquerda,2014,estadual,Alimentacao,pct_despesa_tipo,anova_um_fator,3,2.397230731402756,0.09188294798981707
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Cessao ou locacao de veiculos,valor_despesa,anova_um_fator,3,0.6230161891265611,0.5366878756951351
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Cessao ou locacao de veiculos,pct_despesa_tipo,anova_um_fator,3,0.09106366868037297,0.9129728150702718
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Combustiveis e lubrificantes,valor_despesa,anova_um_fator,3,0.39115393021626993,0.6764568017651713
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Combustiveis e lubrificantes,pct_despesa_tipo,anova_um_fator,3,0.4668045265337778,0.6272412866439003
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Locacao/cessao de bens imoveis,valor_despesa,anova_um_fator,3,0.9475256910365494,0.38830678836636906
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Locacao/cessao de bens imoveis,pct_despesa_tipo,anova_um_fator,3,0.12959580648379115,0.8784762088028394
+cristaos_direita_centro_esquerda,2014,estadual,"Baixa de Estimaveis - Producao de jingles, vinhetas e slogans",valor_despesa,anova_um_fator,3,1.1974407059041778,0.3027218368605085
+cristaos_direita_centro_esquerda,2014,estadual,"Baixa de Estimaveis - Producao de jingles, vinhetas e slogans",pct_despesa_tipo,anova_um_fator,3,1.0716790998017853,0.3431195874051236
+cristaos_direita_centro_esquerda,2014,estadual,"Baixa de Estimaveis - Producao de programas de radio, televisao ou video",valor_despesa,anova_um_fator,3,1.3806698073946184,0.25224665239307575
+cristaos_direita_centro_esquerda,2014,estadual,"Baixa de Estimaveis - Producao de programas de radio, televisao ou video",pct_despesa_tipo,anova_um_fator,3,1.7785770219116712,0.16981094731833826
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Publicidade por carros de som,valor_despesa,anova_um_fator,3,1.2101513769831236,0.2989143144482241
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Publicidade por carros de som,pct_despesa_tipo,anova_um_fator,3,2.6036212819666824,0.07488201076661331
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Publicidade por materiais impressos,valor_despesa,anova_um_fator,3,1.3080630558759567,0.2711506153928223
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Publicidade por materiais impressos,pct_despesa_tipo,anova_um_fator,3,2.9643646348093875,0.0523864513360291
+cristaos_direita_centro_esquerda,2014,estadual,"Baixa de Estimaveis - Publicidade por placas, estandartes e faixas",valor_despesa,anova_um_fator,3,0.07578682086147431,0.9270231123576222
+cristaos_direita_centro_esquerda,2014,estadual,"Baixa de Estimaveis - Publicidade por placas, estandartes e faixas",pct_despesa_tipo,anova_um_fator,3,8.97143349588497,0.0001457529206683887
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Servicos prestados por terceiros,valor_despesa,anova_um_fator,3,2.821529940603253,0.06034344705274348
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Servicos prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.27794446267931944,0.7574411062025732
+cristaos_direita_centro_esquerda,2014,estadual,Cessao ou locacao de veiculos,valor_despesa,anova_um_fator,3,2.6302259257815406,0.07293366056535466
+cristaos_direita_centro_esquerda,2014,estadual,Cessao ou locacao de veiculos,pct_despesa_tipo,anova_um_fator,3,0.9937534483843519,0.3708228000383724
+cristaos_direita_centro_esquerda,2014,estadual,Combustiveis e lubrificantes,valor_despesa,anova_um_fator,3,2.8103969229266976,0.06101238215445821
+cristaos_direita_centro_esquerda,2014,estadual,Combustiveis e lubrificantes,pct_despesa_tipo,anova_um_fator,3,0.252144563392386,0.7772187161303421
+cristaos_direita_centro_esquerda,2014,estadual,Comicios,valor_despesa,anova_um_fator,3,0.5801078200281187,0.5601670233080259
+cristaos_direita_centro_esquerda,2014,estadual,Comicios,pct_despesa_tipo,anova_um_fator,3,0.7857879521494838,0.45625179261012816
+cristaos_direita_centro_esquerda,2014,estadual,Despesas com pessoal,valor_despesa,anova_um_fator,3,1.4188383052249949,0.24284534160744015
+cristaos_direita_centro_esquerda,2014,estadual,Despesas com pessoal,pct_despesa_tipo,anova_um_fator,3,3.278569934334116,0.03839145648758437
+cristaos_direita_centro_esquerda,2014,estadual,Despesas com transporte ou deslocamento,valor_despesa,anova_um_fator,3,1.7309983733166951,0.17803394742632656
+cristaos_direita_centro_esquerda,2014,estadual,Despesas com transporte ou deslocamento,pct_despesa_tipo,anova_um_fator,3,0.1813909573640778,0.8341571546795966
+cristaos_direita_centro_esquerda,2014,estadual,Energia eletrica,valor_despesa,anova_um_fator,3,0.0038030283917940633,0.9962042191509825
+cristaos_direita_centro_esquerda,2014,estadual,Energia eletrica,pct_despesa_tipo,anova_um_fator,3,0.7766892036466685,0.46041064415097455
+cristaos_direita_centro_esquerda,2014,estadual,Eventos de promocao da candidatura,valor_despesa,anova_um_fator,3,2.649053954631602,0.07158563490718658
+cristaos_direita_centro_esquerda,2014,estadual,Eventos de promocao da candidatura,pct_despesa_tipo,anova_um_fator,3,2.6071113535257986,0.07462347379400454
+cristaos_direita_centro_esquerda,2014,estadual,Locacao/cessao de bens imoveis,valor_despesa,anova_um_fator,3,4.923241884528496,0.007586785327019962
+cristaos_direita_centro_esquerda,2014,estadual,Locacao/cessao de bens imoveis,pct_despesa_tipo,anova_um_fator,3,1.513128166278889,0.22110015131302962
+cristaos_direita_centro_esquerda,2014,estadual,Locacao/cessao de bens moveis,valor_despesa,anova_um_fator,3,0.9720073728967522,0.3789468351114222
+cristaos_direita_centro_esquerda,2014,estadual,Locacao/cessao de bens moveis,pct_despesa_tipo,anova_um_fator,3,0.3297556708348604,0.7192360197274394
+cristaos_direita_centro_esquerda,2014,estadual,Materiais de expediente,valor_despesa,anova_um_fator,3,0.5482865563069529,0.5782426603421768
+cristaos_direita_centro_esquerda,2014,estadual,Materiais de expediente,pct_despesa_tipo,anova_um_fator,3,1.1413636349324723,0.3201094823328427
+cristaos_direita_centro_esquerda,2014,estadual,Publicidade por carros de som,valor_despesa,anova_um_fator,3,1.169604364271249,0.3112311793458971
+cristaos_direita_centro_esquerda,2014,estadual,Publicidade por carros de som,pct_despesa_tipo,anova_um_fator,3,0.0094761648348154,0.99056874803249
+cristaos_direita_centro_esquerda,2014,estadual,"Publicidade por placas, estandartes e faixas",valor_despesa,anova_um_fator,3,1.6796104867870687,0.18736480498127583
+cristaos_direita_centro_esquerda,2014,estadual,"Publicidade por placas, estandartes e faixas",pct_despesa_tipo,anova_um_fator,3,2.084994451118195,0.125251547468278
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Despesas com pessoal,valor_despesa,anova_um_fator,3,0.3483735065142058,0.7059848478729083
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Despesas com pessoal,pct_despesa_tipo,anova_um_fator,3,2.0599065256788225,0.12841041900414518
+cristaos_direita_centro_esquerda,2014,federal,"Baixa de Estimaveis - Producao de programas de radio, televisao ou video",valor_despesa,anova_um_fator,3,7.187441210960759,0.0009246730405375027
+cristaos_direita_centro_esquerda,2014,federal,"Baixa de Estimaveis - Producao de programas de radio, televisao ou video",pct_despesa_tipo,anova_um_fator,3,0.7438761230527751,0.4763298091452983
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Cessao ou locacao de veiculos,valor_despesa,anova_um_fator,3,4.051199221434408,0.018570680295280438
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Cessao ou locacao de veiculos,pct_despesa_tipo,anova_um_fator,3,4.391432469227984,0.013364415458439109
+cristaos_direita_centro_esquerda,2014,federal,"Baixa de Estimaveis - Producao de jingles, vinhetas e slogans",valor_despesa,anova_um_fator,3,1.2870550418026605,0.27792756569004323
+cristaos_direita_centro_esquerda,2014,federal,"Baixa de Estimaveis - Producao de jingles, vinhetas e slogans",pct_despesa_tipo,anova_um_fator,3,2.56484950720572,0.07897853335372737
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Publicidade por carros de som,valor_despesa,anova_um_fator,3,2.24032249061366,0.108582512004399
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Publicidade por carros de som,pct_despesa_tipo,anova_um_fator,3,0.8122592184376752,0.44503615212190634
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Servicos prestados por terceiros,valor_despesa,anova_um_fator,3,1.7787147669078163,0.17101099457778163
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Servicos prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.3163354644386976,0.7291097418314504
+cristaos_direita_centro_esquerda,2014,federal,Diversas a especificar,valor_despesa,anova_um_fator,3,0.5298932838377562,0.5893354480910967
+cristaos_direita_centro_esquerda,2014,federal,Diversas a especificar,pct_despesa_tipo,anova_um_fator,3,0.371517859478954,0.690071426646357
+cristaos_direita_centro_esquerda,2014,federal,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",valor_despesa,anova_um_fator,3,2.260421700714161,0.10646016094655485
+cristaos_direita_centro_esquerda,2014,federal,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",pct_despesa_tipo,anova_um_fator,3,2.814239503250013,0.06187408242268083
+cristaos_direita_centro_esquerda,2014,federal,Publicidade por carros de som,valor_despesa,anova_um_fator,3,3.0907973136183995,0.047228653526078405
+cristaos_direita_centro_esquerda,2014,federal,Publicidade por carros de som,pct_despesa_tipo,anova_um_fator,3,1.4926517899355505,0.22679618290676307
+cristaos_direita_centro_esquerda,2014,federal,Servicos prestados por terceiros,valor_despesa,anova_um_fator,3,1.764688081936395,0.17339221334708152
+cristaos_direita_centro_esquerda,2014,federal,Servicos prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.45401273721717056,0.635603554297808
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Diversas a especificar,valor_despesa,anova_um_fator,3,1.9309439845514547,0.1459553185056931
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Diversas a especificar,pct_despesa_tipo,anova_um_fator,3,2.648684737421732,0.07161182779789628
+cristaos_direita_centro_esquerda,2014,estadual,Diversas a especificar,valor_despesa,anova_um_fator,3,0.22144838249526477,0.801425955560716
+cristaos_direita_centro_esquerda,2014,estadual,Diversas a especificar,pct_despesa_tipo,anova_um_fator,3,0.8234776222436269,0.4394222968123963
+cristaos_direita_centro_esquerda,2014,estadual,Doacoes financeiras a outros candidatos/comites financeiros/partidos,valor_despesa,anova_um_fator,3,1.126714004395544,0.32481469199674634
+cristaos_direita_centro_esquerda,2014,estadual,Doacoes financeiras a outros candidatos/comites financeiros/partidos,pct_despesa_tipo,anova_um_fator,3,0.38295012307040055,0.6820215869700823
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Combustiveis e lubrificantes,valor_despesa,anova_um_fator,3,1.0040550873012233,0.3678810632850201
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Combustiveis e lubrificantes,pct_despesa_tipo,anova_um_fator,3,0.6227388244358013,0.5373132467628304
+cristaos_direita_centro_esquerda,2014,federal,Despesas com pessoal,valor_despesa,anova_um_fator,3,1.9217148392726269,0.14853765508473252
+cristaos_direita_centro_esquerda,2014,federal,Despesas com pessoal,pct_despesa_tipo,anova_um_fator,3,1.0750216946152586,0.3428816833986248
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Locacao/cessao de bens moveis,valor_despesa,anova_um_fator,3,1.661586098901089,0.19075259219234042
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Locacao/cessao de bens moveis,pct_despesa_tipo,anova_um_fator,3,1.2048982087611728,0.3004820566553327
+cristaos_direita_centro_esquerda,2014,estadual,Correspondencias e despesas postais,valor_despesa,anova_um_fator,3,0.45690887909205186,0.6334689509727772
+cristaos_direita_centro_esquerda,2014,estadual,Correspondencias e despesas postais,pct_despesa_tipo,anova_um_fator,3,2.7303400365641806,0.06604693839111012
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Locacao/cessao de bens imoveis,valor_despesa,anova_um_fator,3,3.1992523090847746,0.04248873905839756
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Locacao/cessao de bens imoveis,pct_despesa_tipo,anova_um_fator,3,2.204795664701721,0.11243880702481221
+cristaos_direita_centro_esquerda,2014,federal,Correspondencias e despesas postais,valor_despesa,anova_um_fator,3,1.2936837565129893,0.2761102804697758
+cristaos_direita_centro_esquerda,2014,federal,Correspondencias e despesas postais,pct_despesa_tipo,anova_um_fator,3,2.012070609684915,0.13589726441802172
+cristaos_direita_centro_esquerda,2014,federal,Doacoes financeiras a outros candidatos/comites financeiros/partidos,valor_despesa,anova_um_fator,3,2.187387388623813,0.11437851605421125
+cristaos_direita_centro_esquerda,2014,federal,Doacoes financeiras a outros candidatos/comites financeiros/partidos,pct_despesa_tipo,anova_um_fator,3,1.09074614857615,0.33757836146100745
+cristaos_direita_centro_esquerda,2014,federal,"Producao de programas de radio, televisao ou video",valor_despesa,anova_um_fator,3,1.6993075711816858,0.18494018285066652
+cristaos_direita_centro_esquerda,2014,federal,"Producao de programas de radio, televisao ou video",pct_despesa_tipo,anova_um_fator,3,2.971589256515199,0.053056271715818865
+cristaos_direita_centro_esquerda,2014,federal,"Publicidade por placas, estandartes e faixas",valor_despesa,anova_um_fator,3,4.437366775042669,0.012784666523145029
+cristaos_direita_centro_esquerda,2014,federal,"Publicidade por placas, estandartes e faixas",pct_despesa_tipo,anova_um_fator,3,0.13026683828706156,0.8779214234034531
+cristaos_direita_centro_esquerda,2014,federal,Locacao/cessao de bens moveis,valor_despesa,anova_um_fator,3,1.5251903385497376,0.2196215745295919
+cristaos_direita_centro_esquerda,2014,federal,Locacao/cessao de bens moveis,pct_despesa_tipo,anova_um_fator,3,0.8422929869684472,0.43195507776900804
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Criacao e inclusao de paginas na internet,valor_despesa,anova_um_fator,3,1.759072852069071,0.17313472133115537
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Criacao e inclusao de paginas na internet,pct_despesa_tipo,anova_um_fator,3,1.396333059088475,0.24834522453077695
+cristaos_direita_centro_esquerda,2014,federal,"Baixa de Estimaveis - Publicidade por placas, estandartes e faixas",valor_despesa,anova_um_fator,3,2.7992596256384497,0.0627870216607164
+cristaos_direita_centro_esquerda,2014,federal,"Baixa de Estimaveis - Publicidade por placas, estandartes e faixas",pct_despesa_tipo,anova_um_fator,3,1.9158433542948237,0.14939893631408407
+cristaos_direita_centro_esquerda,2014,federal,"Impostos, contribuicoes e taxas",valor_despesa,anova_um_fator,3,1.6985049795852127,0.18508665809814615
+cristaos_direita_centro_esquerda,2014,federal,"Impostos, contribuicoes e taxas",pct_despesa_tipo,anova_um_fator,3,0.895779338422422,0.409611431812637
+cristaos_direita_centro_esquerda,2014,federal,Agua,valor_despesa,anova_um_fator,3,1.0129143817509585,0.36466245750167287
+cristaos_direita_centro_esquerda,2014,federal,Agua,pct_despesa_tipo,anova_um_fator,3,0.921822250070732,0.39915759490659003
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Criacao e inclusao de paginas na internet,valor_despesa,anova_um_fator,3,1.7380533632061963,0.1780062117670353
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Criacao e inclusao de paginas na internet,pct_despesa_tipo,anova_um_fator,3,0.4058413589352046,0.6668594429939108
+cristaos_direita_centro_esquerda,2014,federal,Energia eletrica,valor_despesa,anova_um_fator,3,1.5241755567943966,0.21984183498608495
+cristaos_direita_centro_esquerda,2014,federal,Energia eletrica,pct_despesa_tipo,anova_um_fator,3,0.8115197558047317,0.4453632105522377
+cristaos_direita_centro_esquerda,2014,federal,Locacao/cessao de bens imoveis,valor_despesa,anova_um_fator,3,3.9271438459120134,0.02094201999608353
+cristaos_direita_centro_esquerda,2014,federal,Locacao/cessao de bens imoveis,pct_despesa_tipo,anova_um_fator,3,2.5214427504999475,0.08241002020405838
+cristaos_direita_centro_esquerda,2014,federal,Materiais de expediente,valor_despesa,anova_um_fator,3,1.1696799306992236,0.3121799218638024
+cristaos_direita_centro_esquerda,2014,federal,Materiais de expediente,pct_despesa_tipo,anova_um_fator,3,0.4633075846022941,0.629744745374883
+cristaos_direita_centro_esquerda,2014,federal,Telefone,valor_despesa,anova_um_fator,3,3.350704638402439,0.036660474998615855
+cristaos_direita_centro_esquerda,2014,federal,Telefone,pct_despesa_tipo,anova_um_fator,3,2.3869504369271097,0.09402670142616902
+cristaos_direita_centro_esquerda,2014,estadual,Publicidade por jornais e revistas,valor_despesa,anova_um_fator,3,1.00474966529325,0.36678153173787853
+cristaos_direita_centro_esquerda,2014,estadual,Publicidade por jornais e revistas,pct_despesa_tipo,anova_um_fator,3,0.4084238993807082,0.6648907412442143
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Publicidade por jornais e revistas,valor_despesa,anova_um_fator,3,0.7952620776500144,0.45261539860937317
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Publicidade por jornais e revistas,pct_despesa_tipo,anova_um_fator,3,0.8215175733257217,0.4409616902559493
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Publicidade por jornais e revistas,valor_despesa,anova_um_fator,3,0.4655281338253823,0.6280410995210695
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Publicidade por jornais e revistas,pct_despesa_tipo,anova_um_fator,3,0.4849780206905481,0.6159636729296
+cristaos_direita_centro_esquerda,2014,estadual,Pesquisas ou testes eleitorais,valor_despesa,anova_um_fator,3,0.33527052282406816,0.7152850376189742
+cristaos_direita_centro_esquerda,2014,estadual,Pesquisas ou testes eleitorais,pct_despesa_tipo,anova_um_fator,3,0.3678385130938735,0.6923925826778309
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Atividades de militancia e mobilizacao de rua,valor_despesa,anova_um_fator,3,0.9607747285363745,0.38402147636139133
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Atividades de militancia e mobilizacao de rua,pct_despesa_tipo,anova_um_fator,3,1.4676636392510758,0.23246599448547525
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Locacao/cessao de bens moveis,valor_despesa,anova_um_fator,3,2.2402836631799072,0.10858665294792712
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Locacao/cessao de bens moveis,pct_despesa_tipo,anova_um_fator,3,1.497465581528163,0.2257200528826484
+cristaos_direita_centro_esquerda,2014,federal,Comicios,valor_despesa,anova_um_fator,3,0.7271201490220428,0.4843303746524412
+cristaos_direita_centro_esquerda,2014,federal,Comicios,pct_despesa_tipo,anova_um_fator,3,0.8134701027579633,0.44450111041613904
+cristaos_direita_centro_esquerda,2014,federal,Criacao e inclusao de paginas na internet,valor_despesa,anova_um_fator,3,2.7044114685128626,0.06889125202831652
+cristaos_direita_centro_esquerda,2014,federal,Criacao e inclusao de paginas na internet,pct_despesa_tipo,anova_um_fator,3,2.5291867937890666,0.08178698856731735
+cristaos_direita_centro_esquerda,2014,federal,Preparacao de campanha e instalacao fisica de comites de campanha,valor_despesa,anova_um_fator,3,2.5693608683256137,0.07863025818916818
+cristaos_direita_centro_esquerda,2014,federal,Preparacao de campanha e instalacao fisica de comites de campanha,pct_despesa_tipo,anova_um_fator,3,2.2094918805710537,0.11192123618551875
+cristaos_direita_centro_esquerda,2014,federal,"Producao de jingles, vinhetas e slogans",valor_despesa,anova_um_fator,3,1.2820988305837837,0.2792942023315244
+cristaos_direita_centro_esquerda,2014,federal,"Producao de jingles, vinhetas e slogans",pct_despesa_tipo,anova_um_fator,3,0.12928016520535643,0.8787871621539933
+cristaos_direita_centro_esquerda,2014,estadual,Agua,valor_despesa,anova_um_fator,3,1.3249825280882936,0.2666221527614177
+cristaos_direita_centro_esquerda,2014,estadual,Agua,pct_despesa_tipo,anova_um_fator,3,0.9096642496439585,0.4032410928165107
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Telefone,valor_despesa,anova_um_fator,3,2.1905757487211654,0.11278982567668565
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Telefone,pct_despesa_tipo,anova_um_fator,3,0.672288393269041,0.5109418615792749
+cristaos_direita_centro_esquerda,2014,estadual,Telefone,valor_despesa,anova_um_fator,3,6.237584045018484,0.0020901130610245957
+cristaos_direita_centro_esquerda,2014,estadual,Telefone,pct_despesa_tipo,anova_um_fator,3,5.758411867980971,0.003341927235813036
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Materiais de expediente,valor_despesa,anova_um_fator,3,2.2190666606749354,0.10964558241111018
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Materiais de expediente,pct_despesa_tipo,anova_um_fator,3,2.244739852136662,0.10688770453334179
+cristaos_direita_centro_esquerda,2014,estadual,"Impostos, contribuicoes e taxas",valor_despesa,anova_um_fator,3,0.6209486282271733,0.5377962455367329
+cristaos_direita_centro_esquerda,2014,estadual,"Impostos, contribuicoes e taxas",pct_despesa_tipo,anova_um_fator,3,0.9050213763769056,0.4051116947050856
+cristaos_direita_centro_esquerda,2014,estadual,Atividades de militancia e mobilizacao de rua,valor_despesa,anova_um_fator,3,0.5150240288055877,0.5977630377979491
+cristaos_direita_centro_esquerda,2014,estadual,Atividades de militancia e mobilizacao de rua,pct_despesa_tipo,anova_um_fator,3,1.0509667588206448,0.3502736832514229
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Atividades de militancia e mobilizacao de rua,valor_despesa,anova_um_fator,3,0.2082064762168505,0.8121008667695621
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Atividades de militancia e mobilizacao de rua,pct_despesa_tipo,anova_um_fator,3,0.27063620435103186,0.7629916158178197
+cristaos_direita_centro_esquerda,2014,federal,Alimentacao,valor_despesa,anova_um_fator,3,4.089899295106945,0.017887797658539133
+cristaos_direita_centro_esquerda,2014,federal,Alimentacao,pct_despesa_tipo,anova_um_fator,3,0.6851806751109356,0.5049544875394535
+cristaos_direita_centro_esquerda,2014,estadual,Aquisicao/Doacao de bens moveis ou imoveis,valor_despesa,anova_um_fator,3,0.22871333062817734,0.7956292812648124
+cristaos_direita_centro_esquerda,2014,estadual,Aquisicao/Doacao de bens moveis ou imoveis,pct_despesa_tipo,anova_um_fator,3,0.7998295146792597,0.44990753676509354
+cristaos_direita_centro_esquerda,2014,estadual,Preparacao de campanha e instalacao fisica de comites de campanha,valor_despesa,anova_um_fator,3,2.1952789688778895,0.1122646134559777
+cristaos_direita_centro_esquerda,2014,estadual,Preparacao de campanha e instalacao fisica de comites de campanha,pct_despesa_tipo,anova_um_fator,3,0.8817267875992769,0.414629300354261
+cristaos_direita_centro_esquerda,2014,estadual,Encargos sociais,valor_despesa,anova_um_fator,3,2.170857375050792,0.11501876606298295
+cristaos_direita_centro_esquerda,2014,estadual,Encargos sociais,pct_despesa_tipo,anova_um_fator,3,2.170857375050797,0.11501876606298243
+cristaos_direita_centro_esquerda,2014,estadual,"Producao de programas de radio, televisao ou video",valor_despesa,anova_um_fator,3,0.3926742027482933,0.6754305895770489
+cristaos_direita_centro_esquerda,2014,estadual,"Producao de programas de radio, televisao ou video",pct_despesa_tipo,anova_um_fator,3,2.2163773392102244,0.10993857647589933
+cristaos_direita_centro_esquerda,2014,federal,Atividades de militancia e mobilizacao de rua,valor_despesa,anova_um_fator,3,0.6817961185035858,0.5066569918795388
+cristaos_direita_centro_esquerda,2014,federal,Atividades de militancia e mobilizacao de rua,pct_despesa_tipo,anova_um_fator,3,0.668827328946407,0.513234312529622
+cristaos_direita_centro_esquerda,2014,estadual,Criacao e inclusao de paginas na internet,valor_despesa,anova_um_fator,3,0.6314839798250732,0.5321723635616727
+cristaos_direita_centro_esquerda,2014,estadual,Criacao e inclusao de paginas na internet,pct_despesa_tipo,anova_um_fator,3,2.9253416120780997,0.054449480342699134
+cristaos_direita_centro_esquerda,2014,federal,Despesas com transporte ou deslocamento,valor_despesa,anova_um_fator,3,2.400611813891215,0.09277499787975228
+cristaos_direita_centro_esquerda,2014,federal,Despesas com transporte ou deslocamento,pct_despesa_tipo,anova_um_fator,3,1.349993009626552,0.26114802771243784
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Telefone,valor_despesa,anova_um_fator,3,0.5756173913043484,0.5631101024103602
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Telefone,pct_despesa_tipo,anova_um_fator,3,0.5756173913043479,0.5631101024103605
+cristaos_direita_centro_esquerda,2014,federal,Eventos de promocao da candidatura,valor_despesa,anova_um_fator,3,0.6388299500831948,0.5287796978446088
+cristaos_direita_centro_esquerda,2014,federal,Eventos de promocao da candidatura,pct_despesa_tipo,anova_um_fator,3,0.7281111381344044,0.4838534547077099
+cristaos_direita_centro_esquerda,2014,federal,Aquisicao/Doacao de bens moveis ou imoveis,valor_despesa,anova_um_fator,3,0.6111304742938616,0.543555545799402
+cristaos_direita_centro_esquerda,2014,federal,Aquisicao/Doacao de bens moveis ou imoveis,pct_despesa_tipo,anova_um_fator,3,0.8116408382831259,0.44530964015210667
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Correspondencias e despesas postais,valor_despesa,anova_um_fator,3,0.6872668230200247,0.5033636631017046
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Correspondencias e despesas postais,pct_despesa_tipo,anova_um_fator,3,0.6872668230200265,0.5033636631017036
+cristaos_direita_centro_esquerda,2014,estadual,Publicidade por telemarketing,valor_despesa,anova_um_fator,3,1.359323016304152,0.25766296955941975
+cristaos_direita_centro_esquerda,2014,estadual,Publicidade por telemarketing,pct_despesa_tipo,anova_um_fator,3,0.9633859070710179,0.38221692406857766
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Alimentacao,valor_despesa,anova_um_fator,3,0.8727333333333323,0.41909228762676276
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Alimentacao,pct_despesa_tipo,anova_um_fator,3,0.8727333333333327,0.4190922876267626
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Recursos de outros candidatos/comites,valor_despesa,anova_um_fator,3,0.973583598449737,0.3791717016562926
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Recursos de outros candidatos/comites,pct_despesa_tipo,anova_um_fator,3,1.071045494338386,0.3442359735466003
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Recursos de outros candidatos/comites,valor_despesa,anova_um_fator,3,0.8180867745625624,0.4417907366027681
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Recursos de outros candidatos/comites,pct_despesa_tipo,anova_um_fator,3,0.4495263564158655,0.6381554010193532
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Eventos de promocao da candidatura,valor_despesa,anova_um_fator,3,1.0172972006791667,0.3622240901715163
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Eventos de promocao da candidatura,pct_despesa_tipo,anova_um_fator,3,1.4391838614136014,0.2379785116120138
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Materiais de expediente,valor_despesa,anova_um_fator,3,0.8192311378552558,0.44196440584777963
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Materiais de expediente,pct_despesa_tipo,anova_um_fator,3,0.8707149222541759,0.4199331015331916
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Recursos de pessoas juridicas,valor_despesa,anova_um_fator,3,0.7771739130434777,0.4601881371653184
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Recursos de pessoas juridicas,pct_despesa_tipo,anova_um_fator,3,0.7771739130434789,0.46018813716531787
+cristaos_direita_centro_esquerda,2014,estadual,"Baixa de Estimaveis - Impostos, contribuicoes e taxas",valor_despesa,anova_um_fator,3,0.6872668230200258,0.5033636631017039
+cristaos_direita_centro_esquerda,2014,estadual,"Baixa de Estimaveis - Impostos, contribuicoes e taxas",pct_despesa_tipo,anova_um_fator,3,0.6872668230200253,0.5033636631017042
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Correspondencias e despesas postais,valor_despesa,anova_um_fator,3,2.434714285714283,0.08972321039758989
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Correspondencias e despesas postais,pct_despesa_tipo,anova_um_fator,3,2.434714285714285,0.08972321039758974
+cristaos_direita_centro_esquerda,2014,federal,"Baixa de Estimaveis - Impostos, contribuicoes e taxas",valor_despesa,anova_um_fator,3,2.238112343402986,0.10881847763822734
+cristaos_direita_centro_esquerda,2014,federal,"Baixa de Estimaveis - Impostos, contribuicoes e taxas",pct_despesa_tipo,anova_um_fator,3,0.6402943654028611,0.5280098950788203
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Agua,valor_despesa,anova_um_fator,3,2.434714285714284,0.08972321039758985
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Agua,pct_despesa_tipo,anova_um_fator,3,2.4347142857142847,0.08972321039758978
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Energia eletrica,valor_despesa,anova_um_fator,3,0.451416906065994,0.6372495754481423
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Energia eletrica,pct_despesa_tipo,anova_um_fator,3,1.425621300913099,0.24232977936595018
+cristaos_direita_centro_esquerda,2014,federal,Publicidade por telemarketing,valor_despesa,anova_um_fator,3,0.5756173913043479,0.5631101024103605
+cristaos_direita_centro_esquerda,2014,federal,Publicidade por telemarketing,pct_despesa_tipo,anova_um_fator,3,0.575617391304348,0.5631101024103605
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Pesquisas ou testes eleitorais,valor_despesa,anova_um_fator,3,0.8727333333333318,0.4190922876267629
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Pesquisas ou testes eleitorais,pct_despesa_tipo,anova_um_fator,3,0.8727333333333342,0.41909228762676193
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Alimentacao,valor_despesa,anova_um_fator,3,2.1708573750507925,0.11501876606298295
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Alimentacao,pct_despesa_tipo,anova_um_fator,3,2.1708573750507916,0.11501876606298304
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Preparacao de campanha e instalacao fisica de comites de campanha,valor_despesa,anova_um_fator,3,2.1708573750507854,0.11501876606298377
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Preparacao de campanha e instalacao fisica de comites de campanha,pct_despesa_tipo,anova_um_fator,3,2.170857375050794,0.1150187660629828
+cristaos_direita_centro_esquerda,2014,federal,Encargos sociais,valor_despesa,anova_um_fator,3,0.5756173913043474,0.5631101024103607
+cristaos_direita_centro_esquerda,2014,federal,Encargos sociais,pct_despesa_tipo,anova_um_fator,3,0.5756173913043466,0.5631101024103612
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Eventos de promocao da candidatura,valor_despesa,anova_um_fator,3,0.5756173913043479,0.5631101024103605
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Eventos de promocao da candidatura,pct_despesa_tipo,anova_um_fator,3,0.5756173913043474,0.5631101024103607
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Despesas com transporte ou deslocamento,valor_despesa,anova_um_fator,3,0.49552788997098823,0.6095104983683209
+cristaos_direita_centro_esquerda,2014,estadual,Baixa de Estimaveis - Despesas com transporte ou deslocamento,pct_despesa_tipo,anova_um_fator,3,0.2609980726895875,0.7703740874950796
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Despesas com transporte ou deslocamento,valor_despesa,anova_um_fator,3,0.5756173913043491,0.5631101024103597
+cristaos_direita_centro_esquerda,2014,federal,Baixa de Estimaveis - Despesas com transporte ou deslocamento,pct_despesa_tipo,anova_um_fator,3,0.5756173913043473,0.5631101024103607
+cristaos_direita_centro_esquerda,2014,federal,Pesquisas ou testes eleitorais,valor_despesa,anova_um_fator,3,0.8727333333333339,0.4190922876267621
+cristaos_direita_centro_esquerda,2014,federal,Pesquisas ou testes eleitorais,pct_despesa_tipo,anova_um_fator,3,0.8727333333333341,0.419092287626762
+cristaos_direita_centro_esquerda,2018,estadual,Servicos prestados por terceiros,valor_despesa,anova_um_fator,3,2.714448105280742,0.06699594963129364
+cristaos_direita_centro_esquerda,2018,estadual,Servicos prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.47496175498093657,0.6221255068156796
+cristaos_direita_centro_esquerda,2018,estadual,Cessao ou locacao de veiculos,valor_despesa,anova_um_fator,3,5.152438833027514,0.006025001830101487
+cristaos_direita_centro_esquerda,2018,estadual,Cessao ou locacao de veiculos,pct_despesa_tipo,anova_um_fator,3,1.9041852916123723,0.14977771558183287
+cristaos_direita_centro_esquerda,2018,estadual,Combustiveis e lubrificantes,valor_despesa,anova_um_fator,3,5.255997966221519,0.005441192529683793
+cristaos_direita_centro_esquerda,2018,estadual,Combustiveis e lubrificantes,pct_despesa_tipo,anova_um_fator,3,2.6379357937844805,0.0722777771740019
+cristaos_direita_centro_esquerda,2018,estadual,Despesas com Hospedagem,valor_despesa,anova_um_fator,3,0.9436292608979465,0.3897476979285983
+cristaos_direita_centro_esquerda,2018,estadual,Despesas com Hospedagem,pct_despesa_tipo,anova_um_fator,3,0.6512333104153301,0.5217437591476201
+cristaos_direita_centro_esquerda,2018,estadual,Diversas a especificar,valor_despesa,anova_um_fator,3,0.09397944984164149,0.9103138930074688
+cristaos_direita_centro_esquerda,2018,estadual,Diversas a especificar,pct_despesa_tipo,anova_um_fator,3,2.8286922368617247,0.059821103381388824
+cristaos_direita_centro_esquerda,2018,estadual,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",valor_despesa,anova_um_fator,3,4.580103980396603,0.01058852618471653
+cristaos_direita_centro_esquerda,2018,estadual,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",pct_despesa_tipo,anova_um_fator,3,1.955515582918508,0.14232688288263515
+cristaos_direita_centro_esquerda,2018,estadual,Locacao/cessao de bens imoveis,valor_despesa,anova_um_fator,3,1.7122840347795758,0.18126986231130496
+cristaos_direita_centro_esquerda,2018,estadual,Locacao/cessao de bens imoveis,pct_despesa_tipo,anova_um_fator,3,2.995419444867696,0.0507097767985686
+cristaos_direita_centro_esquerda,2018,estadual,Materiais de expediente,valor_despesa,anova_um_fator,3,2.322394832463804,0.09885527952510821
+cristaos_direita_centro_esquerda,2018,estadual,Materiais de expediente,pct_despesa_tipo,anova_um_fator,3,3.146047202814824,0.043680741860677816
+cristaos_direita_centro_esquerda,2018,estadual,Publicidade por adesivos,valor_despesa,anova_um_fator,3,2.216708790808288,0.10979409115809348
+cristaos_direita_centro_esquerda,2018,estadual,Publicidade por adesivos,pct_despesa_tipo,anova_um_fator,3,1.9103853577169867,0.14885736606873626
+cristaos_direita_centro_esquerda,2018,estadual,Publicidade por materiais impressos,valor_despesa,anova_um_fator,3,5.559503904294195,0.004036921508039093
+cristaos_direita_centro_esquerda,2018,estadual,Publicidade por materiais impressos,pct_despesa_tipo,anova_um_fator,3,0.7704383517145794,0.46323426601036954
+cristaos_direita_centro_esquerda,2018,estadual,Servicos proprios prestados por terceiros,valor_despesa,anova_um_fator,3,1.548395986231807,0.21337541401381074
+cristaos_direita_centro_esquerda,2018,estadual,Servicos proprios prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.32511865019248454,0.722559588567552
+cristaos_direita_centro_esquerda,2018,estadual,Atividades de militancia e mobilizacao de rua,valor_despesa,anova_um_fator,3,5.025089996491252,0.006829793265959458
+cristaos_direita_centro_esquerda,2018,estadual,Atividades de militancia e mobilizacao de rua,pct_despesa_tipo,anova_um_fator,3,0.3712621564733086,0.6900099361183458
+cristaos_direita_centro_esquerda,2018,estadual,"Producao de jingles, vinhetas e slogans",valor_despesa,anova_um_fator,3,0.4077513232265373,0.6653150663402718
+cristaos_direita_centro_esquerda,2018,estadual,"Producao de jingles, vinhetas e slogans",pct_despesa_tipo,anova_um_fator,3,1.6980025691632943,0.1838634673165711
+cristaos_direita_centro_esquerda,2018,estadual,Agua,valor_despesa,anova_um_fator,3,0.36698928485444976,0.6929611931815562
+cristaos_direita_centro_esquerda,2018,estadual,Agua,pct_despesa_tipo,anova_um_fator,3,1.1510977773776152,0.31693623752925737
+cristaos_direita_centro_esquerda,2018,estadual,Alimentacao,valor_despesa,anova_um_fator,3,2.626465289480632,0.07310484462981778
+cristaos_direita_centro_esquerda,2018,estadual,Alimentacao,pct_despesa_tipo,anova_um_fator,3,0.3825751729894108,0.6822568138813564
+cristaos_direita_centro_esquerda,2018,estadual,Despesas com pessoal,valor_despesa,anova_um_fator,3,2.2441532773267268,0.10684189789070808
+cristaos_direita_centro_esquerda,2018,estadual,Despesas com pessoal,pct_despesa_tipo,anova_um_fator,3,1.7533972032800782,0.174006517482495
+cristaos_direita_centro_esquerda,2018,estadual,Energia eletrica,valor_despesa,anova_um_fator,3,3.2991552369773225,0.03753633685869896
+cristaos_direita_centro_esquerda,2018,estadual,Energia eletrica,pct_despesa_tipo,anova_um_fator,3,4.800099627473295,0.008524285777223712
+cristaos_direita_centro_esquerda,2018,estadual,Eventos de promocao da candidatura,valor_despesa,anova_um_fator,3,1.6316060943817547,0.19641897196157312
+cristaos_direita_centro_esquerda,2018,estadual,Eventos de promocao da candidatura,pct_despesa_tipo,anova_um_fator,3,0.27907545775181836,0.7565738338934428
+cristaos_direita_centro_esquerda,2018,estadual,"Producao de programas de radio, televisao ou video",valor_despesa,anova_um_fator,3,1.411111287467131,0.24462164578177062
+cristaos_direita_centro_esquerda,2018,estadual,"Producao de programas de radio, televisao ou video",pct_despesa_tipo,anova_um_fator,3,0.9584425579496476,0.38403347578014035
+cristaos_direita_centro_esquerda,2018,estadual,Despesas com transporte ou deslocamento,valor_despesa,anova_um_fator,3,0.024517358207037977,0.975781657479129
+cristaos_direita_centro_esquerda,2018,estadual,Despesas com transporte ou deslocamento,pct_despesa_tipo,anova_um_fator,3,1.1746115616601638,0.3095968743627192
+cristaos_direita_centro_esquerda,2018,estadual,Publicidade por carros de som,valor_despesa,anova_um_fator,3,0.2169450280672976,0.8050327518063689
+cristaos_direita_centro_esquerda,2018,estadual,Publicidade por carros de som,pct_despesa_tipo,anova_um_fator,3,5.462280924325389,0.00444187642815855
+cristaos_direita_centro_esquerda,2018,federal,Publicidade por materiais impressos,valor_despesa,anova_um_fator,3,3.826196256192419,0.02286715948142755
+cristaos_direita_centro_esquerda,2018,federal,Publicidade por materiais impressos,pct_despesa_tipo,anova_um_fator,3,3.7892107026665496,0.023706961542834495
+cristaos_direita_centro_esquerda,2018,federal,Combustiveis e lubrificantes,valor_despesa,anova_um_fator,3,2.707140765694177,0.06836308530797151
+cristaos_direita_centro_esquerda,2018,federal,Combustiveis e lubrificantes,pct_despesa_tipo,anova_um_fator,3,2.2315967810883754,0.1091420434421533
+cristaos_direita_centro_esquerda,2018,federal,Comicios,valor_despesa,anova_um_fator,3,0.534410551446154,0.5865732908516291
+cristaos_direita_centro_esquerda,2018,federal,Comicios,pct_despesa_tipo,anova_um_fator,3,0.5619908908043174,0.5706739601791123
+cristaos_direita_centro_esquerda,2018,federal,Diversas a especificar,valor_despesa,anova_um_fator,3,1.1596393145557633,0.31500558774315573
+cristaos_direita_centro_esquerda,2018,federal,Diversas a especificar,pct_despesa_tipo,anova_um_fator,3,0.25368430756412885,0.7761035599228052
+cristaos_direita_centro_esquerda,2018,federal,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",valor_despesa,anova_um_fator,3,3.962540680649388,0.020021743732987304
+cristaos_direita_centro_esquerda,2018,federal,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",pct_despesa_tipo,anova_um_fator,3,0.13240282211204837,0.876039387421373
+cristaos_direita_centro_esquerda,2018,federal,Locacao/cessao de bens moveis (exceto veiculos),valor_despesa,anova_um_fator,3,0.7135386207233516,0.49073980568100667
+cristaos_direita_centro_esquerda,2018,federal,Locacao/cessao de bens moveis (exceto veiculos),pct_despesa_tipo,anova_um_fator,3,0.21926506493805248,0.8032378326285039
+cristaos_direita_centro_esquerda,2018,federal,"Producao de jingles, vinhetas e slogans",valor_despesa,anova_um_fator,3,0.775700222331763,0.46130550923683494
+cristaos_direita_centro_esquerda,2018,federal,"Producao de jingles, vinhetas e slogans",pct_despesa_tipo,anova_um_fator,3,0.7385378608483821,0.47868159149109646
+cristaos_direita_centro_esquerda,2018,federal,Publicidade por carros de som,valor_despesa,anova_um_fator,3,0.6904929110019444,0.5021264892091646
+cristaos_direita_centro_esquerda,2018,federal,Publicidade por carros de som,pct_despesa_tipo,anova_um_fator,3,1.8251281189676751,0.16298824597472872
+cristaos_direita_centro_esquerda,2018,federal,Servicos prestados por terceiros,valor_despesa,anova_um_fator,3,2.1466157532460923,0.11867691588575824
+cristaos_direita_centro_esquerda,2018,federal,Servicos prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.0964243937679702,0.9081067771931337
+cristaos_direita_centro_esquerda,2018,federal,Atividades de militancia e mobilizacao de rua,valor_despesa,anova_um_fator,3,2.399251021069481,0.09253185084411313
+cristaos_direita_centro_esquerda,2018,federal,Atividades de militancia e mobilizacao de rua,pct_despesa_tipo,anova_um_fator,3,0.6118528491927114,0.5430226747207987
+cristaos_direita_centro_esquerda,2018,federal,Criacao e inclusao de paginas na internet,valor_despesa,anova_um_fator,3,0.9140058835843381,0.402032150582621
+cristaos_direita_centro_esquerda,2018,federal,Criacao e inclusao de paginas na internet,pct_despesa_tipo,anova_um_fator,3,0.3060786181165217,0.7365591601029432
+cristaos_direita_centro_esquerda,2018,federal,Despesa com Impulsionamento de Conteudos,valor_despesa,anova_um_fator,3,2.6993418961773648,0.0688887818101807
+cristaos_direita_centro_esquerda,2018,federal,Despesa com Impulsionamento de Conteudos,pct_despesa_tipo,anova_um_fator,3,0.34417840062630345,0.709082906793828
+cristaos_direita_centro_esquerda,2018,federal,Despesas com Hospedagem,valor_despesa,anova_um_fator,3,0.8408036961686801,0.4323809978976199
+cristaos_direita_centro_esquerda,2018,federal,Despesas com Hospedagem,pct_despesa_tipo,anova_um_fator,3,0.6603733819347678,0.5174102712600346
+cristaos_direita_centro_esquerda,2018,federal,"Producao de programas de radio, televisao ou video",valor_despesa,anova_um_fator,3,1.4866716465237073,0.22779063473473107
+cristaos_direita_centro_esquerda,2018,federal,"Producao de programas de radio, televisao ou video",pct_despesa_tipo,anova_um_fator,3,4.536467385741312,0.011458758326655662
+cristaos_direita_centro_esquerda,2018,federal,Publicidade por adesivos,valor_despesa,anova_um_fator,3,3.6175830840476193,0.028029222038188667
+cristaos_direita_centro_esquerda,2018,federal,Publicidade por adesivos,pct_despesa_tipo,anova_um_fator,3,2.3149203307111406,0.10054190969183299
+cristaos_direita_centro_esquerda,2018,federal,Servicos proprios prestados por terceiros,valor_despesa,anova_um_fator,3,1.1900094282368459,0.3056550144210479
+cristaos_direita_centro_esquerda,2018,federal,Servicos proprios prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.5345119120838941,0.5865140501960143
+cristaos_direita_centro_esquerda,2018,federal,Cessao ou locacao de veiculos,valor_despesa,anova_um_fator,3,3.9579540892949363,0.020111405618996173
+cristaos_direita_centro_esquerda,2018,federal,Cessao ou locacao de veiculos,pct_despesa_tipo,anova_um_fator,3,0.12449691529403323,0.8829867304247218
+cristaos_direita_centro_esquerda,2018,federal,"Impostos, contribuicoes e taxas",valor_despesa,anova_um_fator,3,0.8688005949114326,0.4205104831157113
+cristaos_direita_centro_esquerda,2018,federal,"Impostos, contribuicoes e taxas",pct_despesa_tipo,anova_um_fator,3,1.9245904639458973,0.14773906359830352
+cristaos_direita_centro_esquerda,2018,estadual,Doacoes financeiras a outros candidatos/partidos,valor_despesa,anova_um_fator,3,0.5074443795818203,0.6022715805792865
+cristaos_direita_centro_esquerda,2018,estadual,Doacoes financeiras a outros candidatos/partidos,pct_despesa_tipo,anova_um_fator,3,0.6996452194096269,0.4971369515502558
+cristaos_direita_centro_esquerda,2018,federal,Despesas com transporte ou deslocamento,valor_despesa,anova_um_fator,3,1.8905332598829512,0.15279173062918608
+cristaos_direita_centro_esquerda,2018,federal,Despesas com transporte ou deslocamento,pct_despesa_tipo,anova_um_fator,3,0.8477411188444708,0.42940849738183456
+cristaos_direita_centro_esquerda,2018,federal,Doacoes financeiras a outros candidatos/partidos,valor_despesa,anova_um_fator,3,0.9675573185491599,0.38119669830699526
+cristaos_direita_centro_esquerda,2018,federal,Doacoes financeiras a outros candidatos/partidos,pct_despesa_tipo,anova_um_fator,3,0.8754536464484194,0.41773820981055615
+cristaos_direita_centro_esquerda,2018,federal,Locacao/cessao de bens imoveis,valor_despesa,anova_um_fator,3,2.623665824135197,0.07420605468398776
+cristaos_direita_centro_esquerda,2018,federal,Locacao/cessao de bens imoveis,pct_despesa_tipo,anova_um_fator,3,1.7846654617964568,0.1696365269204186
+cristaos_direita_centro_esquerda,2018,federal,Taxa de Administracao de Financiamento Coletivo,valor_despesa,anova_um_fator,3,4.755405919590684,0.009266581707647312
+cristaos_direita_centro_esquerda,2018,federal,Taxa de Administracao de Financiamento Coletivo,pct_despesa_tipo,anova_um_fator,3,4.0643282527104,0.018132255325542756
+cristaos_direita_centro_esquerda,2018,estadual,Taxa de Administracao de Financiamento Coletivo,valor_despesa,anova_um_fator,3,4.029531944883928,0.018230807590813896
+cristaos_direita_centro_esquerda,2018,estadual,Taxa de Administracao de Financiamento Coletivo,pct_despesa_tipo,anova_um_fator,3,3.9470753208924148,0.019777903257701037
+cristaos_direita_centro_esquerda,2018,estadual,Correspondencias e despesas postais,valor_despesa,anova_um_fator,3,0.8420186286428022,0.43131150233486354
+cristaos_direita_centro_esquerda,2018,estadual,Correspondencias e despesas postais,pct_despesa_tipo,anova_um_fator,3,0.4534209709379543,0.6356523352690422
+cristaos_direita_centro_esquerda,2018,estadual,Criacao e inclusao de paginas na internet,valor_despesa,anova_um_fator,3,0.3548131525006897,0.7014408403767951
+cristaos_direita_centro_esquerda,2018,estadual,Criacao e inclusao de paginas na internet,pct_despesa_tipo,anova_um_fator,3,0.5498579632149101,0.5773011695565912
+cristaos_direita_centro_esquerda,2018,estadual,Despesa com Impulsionamento de Conteudos,valor_despesa,anova_um_fator,3,0.6343637910879564,0.5306022331170992
+cristaos_direita_centro_esquerda,2018,estadual,Despesa com Impulsionamento de Conteudos,pct_despesa_tipo,anova_um_fator,3,0.5191215469864239,0.5952906686464595
+cristaos_direita_centro_esquerda,2018,estadual,Publicidade por jornais e revistas,valor_despesa,anova_um_fator,3,0.4045135812595947,0.6674699661449606
+cristaos_direita_centro_esquerda,2018,estadual,Publicidade por jornais e revistas,pct_despesa_tipo,anova_um_fator,3,2.038892653106363,0.13100833187795502
+cristaos_direita_centro_esquerda,2018,federal,Despesas com pessoal,valor_despesa,anova_um_fator,3,6.133631872910607,0.002451275848055039
+cristaos_direita_centro_esquerda,2018,federal,Despesas com pessoal,pct_despesa_tipo,anova_um_fator,3,0.3766915202216853,0.6864528446434973
+cristaos_direita_centro_esquerda,2018,federal,Alimentacao,valor_despesa,anova_um_fator,3,0.2588229410497722,0.7721324666369224
+cristaos_direita_centro_esquerda,2018,federal,Alimentacao,pct_despesa_tipo,anova_um_fator,3,0.4182768781872324,0.6585644874908436
+cristaos_direita_centro_esquerda,2018,federal,Correspondencias e despesas postais,valor_despesa,anova_um_fator,3,0.8333654526917152,0.43559110297888115
+cristaos_direita_centro_esquerda,2018,federal,Correspondencias e despesas postais,pct_despesa_tipo,anova_um_fator,3,1.6472637629305427,0.19431889067603103
+cristaos_direita_centro_esquerda,2018,federal,Materiais de expediente,valor_despesa,anova_um_fator,3,2.2390669370353473,0.10834169523552388
+cristaos_direita_centro_esquerda,2018,federal,Materiais de expediente,pct_despesa_tipo,anova_um_fator,3,1.417542096472146,0.2439324852847536
+cristaos_direita_centro_esquerda,2018,estadual,Locacao/cessao de bens moveis (exceto veiculos),valor_despesa,anova_um_fator,3,0.3914704083312747,0.6762220786191913
+cristaos_direita_centro_esquerda,2018,estadual,Locacao/cessao de bens moveis (exceto veiculos),pct_despesa_tipo,anova_um_fator,3,2.58187412046987,0.07641123314027337
+cristaos_direita_centro_esquerda,2018,estadual,Pre-instalacao fisica de comite de campanha,valor_despesa,anova_um_fator,3,1.1417229559221633,0.31991083832775646
+cristaos_direita_centro_esquerda,2018,estadual,Pre-instalacao fisica de comite de campanha,pct_despesa_tipo,anova_um_fator,3,0.6796245640559944,0.5071686599244437
+cristaos_direita_centro_esquerda,2018,federal,Publicidade por jornais e revistas,valor_despesa,anova_um_fator,3,3.667047248710157,0.026707913140311793
+cristaos_direita_centro_esquerda,2018,federal,Publicidade por jornais e revistas,pct_despesa_tipo,anova_um_fator,3,0.5722937531767692,0.5648465624782796
+cristaos_direita_centro_esquerda,2018,federal,Telefone,valor_despesa,anova_um_fator,3,4.066835063482364,0.018088058522723983
+cristaos_direita_centro_esquerda,2018,federal,Telefone,pct_despesa_tipo,anova_um_fator,3,4.769933002319047,0.00913703547662081
+cristaos_direita_centro_esquerda,2018,estadual,"Impostos, contribuicoes e taxas",valor_despesa,anova_um_fator,3,1.3177850552582366,0.26844524706188866
+cristaos_direita_centro_esquerda,2018,estadual,"Impostos, contribuicoes e taxas",pct_despesa_tipo,anova_um_fator,3,0.26942919176873964,0.7639010178078306
+cristaos_direita_centro_esquerda,2018,federal,Agua,valor_despesa,anova_um_fator,3,1.661753866422489,0.19155387073331434
+cristaos_direita_centro_esquerda,2018,federal,Agua,pct_despesa_tipo,anova_um_fator,3,1.7818360539517726,0.17011150390673588
+cristaos_direita_centro_esquerda,2018,federal,Eventos de promocao da candidatura,valor_despesa,anova_um_fator,3,0.6354192183347317,0.5304271399126221
+cristaos_direita_centro_esquerda,2018,federal,Eventos de promocao da candidatura,pct_despesa_tipo,anova_um_fator,3,0.6835589410686189,0.5056042806090294
+cristaos_direita_centro_esquerda,2018,estadual,Passagem Aerea,valor_despesa,anova_um_fator,3,0.2847983791776146,0.7522601360060062
+cristaos_direita_centro_esquerda,2018,estadual,Passagem Aerea,pct_despesa_tipo,anova_um_fator,3,0.7868617081261915,0.4557065078567584
+cristaos_direita_centro_esquerda,2018,estadual,Aquisicao/Doacao de bens moveis ou imoveis,valor_despesa,anova_um_fator,3,1.2700728310901563,0.2815103228294088
+cristaos_direita_centro_esquerda,2018,estadual,Aquisicao/Doacao de bens moveis ou imoveis,pct_despesa_tipo,anova_um_fator,3,1.1072966860433653,0.33107645909276345
+cristaos_direita_centro_esquerda,2018,estadual,Telefone,valor_despesa,anova_um_fator,3,1.027864409933462,0.3583536498902913
+cristaos_direita_centro_esquerda,2018,estadual,Telefone,pct_despesa_tipo,anova_um_fator,3,0.35041741466902127,0.7045276051787088
+cristaos_direita_centro_esquerda,2018,federal,Energia eletrica,valor_despesa,anova_um_fator,3,3.2592539449269826,0.03978622792227268
+cristaos_direita_centro_esquerda,2018,federal,Energia eletrica,pct_despesa_tipo,anova_um_fator,3,1.367957458754005,0.2562153895397214
+cristaos_direita_centro_esquerda,2018,federal,Pesquisas ou testes eleitorais,valor_despesa,anova_um_fator,3,0.4434703048207322,0.6422267418784905
+cristaos_direita_centro_esquerda,2018,federal,Pesquisas ou testes eleitorais,pct_despesa_tipo,anova_um_fator,3,1.4393684033035379,0.23871533009039955
+cristaos_direita_centro_esquerda,2018,federal,Pre-instalacao fisica de comite de campanha,valor_despesa,anova_um_fator,3,0.43457677345097634,0.6479470064392426
+cristaos_direita_centro_esquerda,2018,federal,Pre-instalacao fisica de comite de campanha,pct_despesa_tipo,anova_um_fator,3,0.4321575944264681,0.6495118621503475
+cristaos_direita_centro_esquerda,2018,federal,Reembolsos de gastos realizados por eleitores,valor_despesa,anova_um_fator,3,1.9082728049562039,0.15013858465647278
+cristaos_direita_centro_esquerda,2018,federal,Reembolsos de gastos realizados por eleitores,pct_despesa_tipo,anova_um_fator,3,1.9082728049562054,0.1501385846564726
+cristaos_direita_centro_esquerda,2018,estadual,Comicios,valor_despesa,anova_um_fator,3,0.3717757357615398,0.6896560585919168
+cristaos_direita_centro_esquerda,2018,estadual,Comicios,pct_despesa_tipo,anova_um_fator,3,0.4615241430451099,0.6305295626312913
+cristaos_direita_centro_esquerda,2018,estadual,Pesquisas ou testes eleitorais,valor_despesa,anova_um_fator,3,0.6477059465357327,0.5235836884794194
+cristaos_direita_centro_esquerda,2018,estadual,Pesquisas ou testes eleitorais,pct_despesa_tipo,anova_um_fator,3,0.6477059465357327,0.5235836884794194
+cristaos_direita_centro_esquerda,2018,federal,Encargos sociais,valor_despesa,anova_um_fator,3,1.908272804956204,0.15013858465647278
+cristaos_direita_centro_esquerda,2018,federal,Encargos sociais,pct_despesa_tipo,anova_um_fator,3,1.9082728049562083,0.1501385846564722
+cristaos_direita_centro_esquerda,2018,federal,Aquisicao/Doacao de bens moveis ou imoveis,valor_despesa,anova_um_fator,3,1.9082728049562068,0.15013858465647237
+cristaos_direita_centro_esquerda,2018,federal,Aquisicao/Doacao de bens moveis ou imoveis,pct_despesa_tipo,anova_um_fator,3,1.9082728049562079,0.15013858465647223
+cristaos_direita_centro_esquerda,2020,municipal,Servicos advocaticios,valor_despesa,anova_um_fator,3,5.4513824717831945,0.004297722426995389
+cristaos_direita_centro_esquerda,2020,municipal,Servicos advocaticios,pct_despesa_tipo,anova_um_fator,3,1.5885346312268376,0.20425436380046608
+cristaos_direita_centro_esquerda,2020,municipal,Servicos contabeis,valor_despesa,anova_um_fator,3,10.151274463268185,3.925865299518265e-05
+cristaos_direita_centro_esquerda,2020,municipal,Servicos contabeis,pct_despesa_tipo,anova_um_fator,3,1.4784649769326903,0.22801611256712903
+cristaos_direita_centro_esquerda,2020,municipal,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",valor_despesa,anova_um_fator,3,0.34107769154028034,0.711008435177424
+cristaos_direita_centro_esquerda,2020,municipal,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",pct_despesa_tipo,anova_um_fator,3,2.6518177156734124,0.0705514944763333
+cristaos_direita_centro_esquerda,2020,municipal,Publicidade por materiais impressos,valor_despesa,anova_um_fator,3,7.353977041484641,0.0006420391953211968
+cristaos_direita_centro_esquerda,2020,municipal,Publicidade por materiais impressos,pct_despesa_tipo,anova_um_fator,3,4.184676914661581,0.01524249916249193
+cristaos_direita_centro_esquerda,2020,municipal,Servicos prestados por terceiros,valor_despesa,anova_um_fator,3,1.6933551398112303,0.18393186998646555
+cristaos_direita_centro_esquerda,2020,municipal,Servicos prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,6.619365733803317,0.0013376496957466233
+cristaos_direita_centro_esquerda,2020,municipal,"Producao de jingles, vinhetas e slogans",valor_despesa,anova_um_fator,3,2.6217221536901913,0.07270639005685718
+cristaos_direita_centro_esquerda,2020,municipal,"Producao de jingles, vinhetas e slogans",pct_despesa_tipo,anova_um_fator,3,3.185231988318029,0.0413928439886985
+cristaos_direita_centro_esquerda,2020,municipal,Publicidade por adesivos,valor_despesa,anova_um_fator,3,5.923526066030994,0.0026811639625740464
+cristaos_direita_centro_esquerda,2020,municipal,Publicidade por adesivos,pct_despesa_tipo,anova_um_fator,3,0.4008141255470544,0.6697807461189756
+cristaos_direita_centro_esquerda,2020,municipal,Atividades de militancia e mobilizacao de rua,valor_despesa,anova_um_fator,3,7.3220677545227435,0.0006628386965954973
+cristaos_direita_centro_esquerda,2020,municipal,Atividades de militancia e mobilizacao de rua,pct_despesa_tipo,anova_um_fator,3,5.613435292187127,0.0036551447424821464
+cristaos_direita_centro_esquerda,2020,municipal,Diversas a especificar,valor_despesa,anova_um_fator,3,0.1560933576531026,0.855480522671179
+cristaos_direita_centro_esquerda,2020,municipal,Diversas a especificar,pct_despesa_tipo,anova_um_fator,3,2.5652234492443937,0.07693116743736565
+cristaos_direita_centro_esquerda,2020,municipal,Combustiveis e lubrificantes,valor_despesa,anova_um_fator,3,3.9966505701018047,0.01839401300994723
+cristaos_direita_centro_esquerda,2020,municipal,Combustiveis e lubrificantes,pct_despesa_tipo,anova_um_fator,3,0.019725913213960132,0.9804673916250689
+cristaos_direita_centro_esquerda,2020,municipal,Despesas com pessoal,valor_despesa,anova_um_fator,3,3.45937159989834,0.03147121662429262
+cristaos_direita_centro_esquerda,2020,municipal,Despesas com pessoal,pct_despesa_tipo,anova_um_fator,3,7.082375870906712,0.0008422060362741315
+cristaos_direita_centro_esquerda,2020,municipal,"Impostos, contribuicoes e taxas",valor_despesa,anova_um_fator,3,0.016211419747406745,0.9839192930052602
+cristaos_direita_centro_esquerda,2020,municipal,"Impostos, contribuicoes e taxas",pct_despesa_tipo,anova_um_fator,3,1.1967311431321894,0.30220533032654356
+cristaos_direita_centro_esquerda,2020,municipal,Cessao ou locacao de veiculos,valor_despesa,anova_um_fator,3,7.029237955741421,0.0008881311345230972
+cristaos_direita_centro_esquerda,2020,municipal,Cessao ou locacao de veiculos,pct_despesa_tipo,anova_um_fator,3,1.51101777425748,0.22071430050357072
+cristaos_direita_centro_esquerda,2020,municipal,Agua,valor_despesa,anova_um_fator,3,0.9231309544819907,0.39729276251489315
+cristaos_direita_centro_esquerda,2020,municipal,Agua,pct_despesa_tipo,anova_um_fator,3,1.179592774024564,0.30742855222925136
+cristaos_direita_centro_esquerda,2020,municipal,"Producao de programas de radio, televisao ou video",valor_despesa,anova_um_fator,3,1.4779328550494315,0.22813745653209586
+cristaos_direita_centro_esquerda,2020,municipal,"Producao de programas de radio, televisao ou video",pct_despesa_tipo,anova_um_fator,3,1.602545352205165,0.20141308621361612
+cristaos_direita_centro_esquerda,2020,municipal,Eventos de promocao da candidatura,valor_despesa,anova_um_fator,3,1.1778578665042139,0.30796230266997116
+cristaos_direita_centro_esquerda,2020,municipal,Eventos de promocao da candidatura,pct_despesa_tipo,anova_um_fator,3,1.0811459074714953,0.3392294587798805
+cristaos_direita_centro_esquerda,2020,municipal,Locacao/cessao de bens moveis (exceto veiculos),valor_despesa,anova_um_fator,3,1.9561066520982349,0.1414390908361635
+cristaos_direita_centro_esquerda,2020,municipal,Locacao/cessao de bens moveis (exceto veiculos),pct_despesa_tipo,anova_um_fator,3,1.616045018175109,0.19871284501214692
+cristaos_direita_centro_esquerda,2020,municipal,Comicios,valor_despesa,anova_um_fator,3,1.4740260808521572,0.2290303291098707
+cristaos_direita_centro_esquerda,2020,municipal,Comicios,pct_despesa_tipo,anova_um_fator,3,0.6813424363061183,0.5059508866049394
+cristaos_direita_centro_esquerda,2020,municipal,Criacao e inclusao de paginas na internet,valor_despesa,anova_um_fator,3,2.577069802686406,0.07602545739266924
+cristaos_direita_centro_esquerda,2020,municipal,Criacao e inclusao de paginas na internet,pct_despesa_tipo,anova_um_fator,3,0.7479175532613241,0.47336651917543443
+cristaos_direita_centro_esquerda,2020,municipal,Doacoes financeiras a outros candidatos/partidos,valor_despesa,anova_um_fator,3,0.3639398844532936,0.6949382757639496
+cristaos_direita_centro_esquerda,2020,municipal,Doacoes financeiras a outros candidatos/partidos,pct_despesa_tipo,anova_um_fator,3,0.5490972041593047,0.5774809501290568
+cristaos_direita_centro_esquerda,2020,municipal,Despesa com Impulsionamento de Conteudos,valor_despesa,anova_um_fator,3,2.1640878867605196,0.11488565432357797
+cristaos_direita_centro_esquerda,2020,municipal,Despesa com Impulsionamento de Conteudos,pct_despesa_tipo,anova_um_fator,3,2.198491405127318,0.11100136017239375
+cristaos_direita_centro_esquerda,2020,municipal,Locacao/cessao de bens imoveis,valor_despesa,anova_um_fator,3,3.316865728999322,0.03628932409276561
+cristaos_direita_centro_esquerda,2020,municipal,Locacao/cessao de bens imoveis,pct_despesa_tipo,anova_um_fator,3,1.792963008805462,0.16649704523557515
+cristaos_direita_centro_esquerda,2020,municipal,Alimentacao,valor_despesa,anova_um_fator,3,2.1624311103542273,0.11507610438792475
+cristaos_direita_centro_esquerda,2020,municipal,Alimentacao,pct_despesa_tipo,anova_um_fator,3,0.9086429040446267,0.40309004217232636
+cristaos_direita_centro_esquerda,2020,municipal,Materiais de expediente,valor_despesa,anova_um_fator,3,0.926283885070587,0.3960422317882385
+cristaos_direita_centro_esquerda,2020,municipal,Materiais de expediente,pct_despesa_tipo,anova_um_fator,3,1.051461391791,0.3494489952672155
+cristaos_direita_centro_esquerda,2020,municipal,Publicidade por carros de som,valor_despesa,anova_um_fator,3,0.5245930670900473,0.5918055248214823
+cristaos_direita_centro_esquerda,2020,municipal,Publicidade por carros de som,pct_despesa_tipo,anova_um_fator,3,1.160441978420384,0.3133719809254105
+cristaos_direita_centro_esquerda,2020,municipal,Despesas com transporte ou deslocamento,valor_despesa,anova_um_fator,3,0.8988474109049277,0.40705749437706884
+cristaos_direita_centro_esquerda,2020,municipal,Despesas com transporte ou deslocamento,pct_despesa_tipo,anova_um_fator,3,0.48332657011053737,0.6167366903893152
+cristaos_direita_centro_esquerda,2020,municipal,Servicos proprios prestados por terceiros,valor_despesa,anova_um_fator,3,0.030123161913042894,0.9703260697367694
+cristaos_direita_centro_esquerda,2020,municipal,Servicos proprios prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.22305186665981147,0.800075645703692
+cristaos_direita_centro_esquerda,2020,municipal,Energia eletrica,valor_despesa,anova_um_fator,3,0.544852519308869,0.5799372292473854
+cristaos_direita_centro_esquerda,2020,municipal,Energia eletrica,pct_despesa_tipo,anova_um_fator,3,0.030547343152874547,0.9699145643432969
+cristaos_direita_centro_esquerda,2020,municipal,Publicidade por jornais e revistas,valor_despesa,anova_um_fator,3,1.563804880610189,0.2093675575651573
+cristaos_direita_centro_esquerda,2020,municipal,Publicidade por jornais e revistas,pct_despesa_tipo,anova_um_fator,3,0.43492029822514017,0.6473233155641286
+cristaos_direita_centro_esquerda,2020,municipal,Aquisicao/Doacao de bens moveis ou imoveis,valor_despesa,anova_um_fator,3,0.7490757173051483,0.4728186476967741
+cristaos_direita_centro_esquerda,2020,municipal,Aquisicao/Doacao de bens moveis ou imoveis,pct_despesa_tipo,anova_um_fator,3,0.47721859498951624,0.6205150207631737
+cristaos_direita_centro_esquerda,2020,municipal,Encargos sociais,valor_despesa,anova_um_fator,3,1.9955848813139947,0.13596533083884843
+cristaos_direita_centro_esquerda,2020,municipal,Encargos sociais,pct_despesa_tipo,anova_um_fator,3,1.4173815999669397,0.24237581527202642
+cristaos_direita_centro_esquerda,2020,municipal,Pre-instalacao fisica de comite de campanha,valor_despesa,anova_um_fator,3,0.48200038142171997,0.6175550966299728
+cristaos_direita_centro_esquerda,2020,municipal,Pre-instalacao fisica de comite de campanha,pct_despesa_tipo,anova_um_fator,3,0.6965398771325755,0.49832046234371047
+cristaos_direita_centro_esquerda,2020,municipal,Pesquisas ou testes eleitorais,valor_despesa,anova_um_fator,3,0.46483436806354433,0.6282469780386835
+cristaos_direita_centro_esquerda,2020,municipal,Pesquisas ou testes eleitorais,pct_despesa_tipo,anova_um_fator,3,0.39119053134669535,0.6762572622266247
+cristaos_direita_centro_esquerda,2020,municipal,Reembolsos de gastos realizados por eleitores,valor_despesa,anova_um_fator,3,0.04521926901562059,0.9557879968496662
+cristaos_direita_centro_esquerda,2020,municipal,Reembolsos de gastos realizados por eleitores,pct_despesa_tipo,anova_um_fator,3,0.3065646546528064,0.7359749199268673
+cristaos_direita_centro_esquerda,2020,municipal,Despesas com Hospedagem,valor_despesa,anova_um_fator,3,1.15649857817863,0.31461000612506984
+cristaos_direita_centro_esquerda,2020,municipal,Despesas com Hospedagem,pct_despesa_tipo,anova_um_fator,3,0.836651175753018,0.43317614756114037
+cristaos_direita_centro_esquerda,2020,municipal,Correspondencias e despesas postais,valor_despesa,anova_um_fator,3,1.5104371207019907,0.220842473930572
+cristaos_direita_centro_esquerda,2020,municipal,Correspondencias e despesas postais,pct_despesa_tipo,anova_um_fator,3,0.6565260220670416,0.5186628736238201
+cristaos_direita_centro_esquerda,2020,municipal,Taxa de Administracao de Financiamento Coletivo,valor_despesa,anova_um_fator,3,2.341801322265607,0.09618467458249323
+cristaos_direita_centro_esquerda,2020,municipal,Taxa de Administracao de Financiamento Coletivo,pct_despesa_tipo,anova_um_fator,3,0.4810280107229509,0.6181558477888555
+cristaos_direita_centro_esquerda,2020,municipal,Multas eleitorais,valor_despesa,anova_um_fator,3,0.36912454014657425,0.6913447356185063
+cristaos_direita_centro_esquerda,2020,municipal,Multas eleitorais,pct_despesa_tipo,anova_um_fator,3,0.36912454014657586,0.6913447356185052
+cristaos_direita_centro_esquerda,2020,municipal,Telefone,valor_despesa,anova_um_fator,3,1.3311852966463382,0.26419094685445554
+cristaos_direita_centro_esquerda,2020,municipal,Telefone,pct_despesa_tipo,anova_um_fator,3,0.21167785635858993,0.8092274325879548
+cristaos_direita_centro_esquerda,2020,municipal,Despesa com geradores de energia,valor_despesa,anova_um_fator,3,4.428652664707327,0.011944045328125681
+cristaos_direita_centro_esquerda,2020,municipal,Despesa com geradores de energia,pct_despesa_tipo,anova_um_fator,3,4.147897213494575,0.01581327166895292
+cristaos_direita_centro_esquerda,2022,federal,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",valor_despesa,anova_um_fator,3,0.34311535914670827,0.7097634305010119
+cristaos_direita_centro_esquerda,2022,federal,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",pct_despesa_tipo,anova_um_fator,3,2.3611612790777454,0.09561415008717421
+cristaos_direita_centro_esquerda,2022,federal,Publicidade por adesivos,valor_despesa,anova_um_fator,3,1.4678249118599926,0.2316553539751197
+cristaos_direita_centro_esquerda,2022,federal,Publicidade por adesivos,pct_despesa_tipo,anova_um_fator,3,0.43460621947017297,0.6478227194966406
+cristaos_direita_centro_esquerda,2022,federal,Publicidade por materiais impressos,valor_despesa,anova_um_fator,3,3.1968388358434425,0.04193038012409198
+cristaos_direita_centro_esquerda,2022,federal,Publicidade por materiais impressos,pct_despesa_tipo,anova_um_fator,3,1.8746063622035105,0.15475066074626964
+cristaos_direita_centro_esquerda,2022,estadual,Despesas com pessoal,valor_despesa,anova_um_fator,3,1.061629061912008,0.34646953884689324
+cristaos_direita_centro_esquerda,2022,estadual,Despesas com pessoal,pct_despesa_tipo,anova_um_fator,3,5.561076250252547,0.0040231454862158424
+cristaos_direita_centro_esquerda,2022,estadual,Publicidade por materiais impressos,valor_despesa,anova_um_fator,3,3.9683545671646856,0.01934789522848454
+cristaos_direita_centro_esquerda,2022,estadual,Publicidade por materiais impressos,pct_despesa_tipo,anova_um_fator,3,2.4295712068909254,0.08884560546257257
+cristaos_direita_centro_esquerda,2022,estadual,Servicos advocaticios,valor_despesa,anova_um_fator,3,6.772275369006126,0.0012246178632652148
+cristaos_direita_centro_esquerda,2022,estadual,Servicos advocaticios,pct_despesa_tipo,anova_um_fator,3,2.7767856218060016,0.06295040344820121
+cristaos_direita_centro_esquerda,2022,estadual,Atividades de militancia e mobilizacao de rua,valor_despesa,anova_um_fator,3,4.21351504885978,0.015185841653003641
+cristaos_direita_centro_esquerda,2022,estadual,Atividades de militancia e mobilizacao de rua,pct_despesa_tipo,anova_um_fator,3,0.216788695461608,0.8051561893372957
+cristaos_direita_centro_esquerda,2022,estadual,Cessao ou locacao de veiculos,valor_despesa,anova_um_fator,3,6.065074705686234,0.0024512835969218057
+cristaos_direita_centro_esquerda,2022,estadual,Cessao ou locacao de veiculos,pct_despesa_tipo,anova_um_fator,3,5.7734752514194225,0.0032647325796332396
+cristaos_direita_centro_esquerda,2022,estadual,Combustiveis e lubrificantes,valor_despesa,anova_um_fator,3,4.0769611169695255,0.01737892382343103
+cristaos_direita_centro_esquerda,2022,estadual,Combustiveis e lubrificantes,pct_despesa_tipo,anova_um_fator,3,0.2023350720711099,0.8168707843649938
+cristaos_direita_centro_esquerda,2022,estadual,Criacao e inclusao de paginas na internet,valor_despesa,anova_um_fator,3,0.8705283549476943,0.4192005114001658
+cristaos_direita_centro_esquerda,2022,estadual,Criacao e inclusao de paginas na internet,pct_despesa_tipo,anova_um_fator,3,0.09747696822640964,0.9071360198262617
+cristaos_direita_centro_esquerda,2022,estadual,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",valor_despesa,anova_um_fator,3,4.666578171456248,0.00971034600404177
+cristaos_direita_centro_esquerda,2022,estadual,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",pct_despesa_tipo,anova_um_fator,3,0.37905371624714557,0.684654670605213
+cristaos_direita_centro_esquerda,2022,estadual,"Producao de jingles, vinhetas e slogans",valor_despesa,anova_um_fator,3,0.7290328267767385,0.4827552883721758
+cristaos_direita_centro_esquerda,2022,estadual,"Producao de jingles, vinhetas e slogans",pct_despesa_tipo,anova_um_fator,3,0.3817490179356002,0.6828138794343758
+cristaos_direita_centro_esquerda,2022,estadual,Servicos contabeis,valor_despesa,anova_um_fator,3,7.013754258033814,0.0009665620007582783
+cristaos_direita_centro_esquerda,2022,estadual,Servicos contabeis,pct_despesa_tipo,anova_um_fator,3,0.5582891341127778,0.5724515356892442
+cristaos_direita_centro_esquerda,2022,federal,Atividades de militancia e mobilizacao de rua,valor_despesa,anova_um_fator,3,1.799880331772001,0.16664503799938324
+cristaos_direita_centro_esquerda,2022,federal,Atividades de militancia e mobilizacao de rua,pct_despesa_tipo,anova_um_fator,3,1.6646842035982357,0.19054907958866268
+cristaos_direita_centro_esquerda,2022,federal,Cessao ou locacao de veiculos,valor_despesa,anova_um_fator,3,0.41314161217124395,0.6618484665295125
+cristaos_direita_centro_esquerda,2022,federal,Cessao ou locacao de veiculos,pct_despesa_tipo,anova_um_fator,3,1.5543260509711685,0.2125959548754024
+cristaos_direita_centro_esquerda,2022,federal,Combustiveis e lubrificantes,valor_despesa,anova_um_fator,3,1.1515157409926544,0.31719519774194627
+cristaos_direita_centro_esquerda,2022,federal,Combustiveis e lubrificantes,pct_despesa_tipo,anova_um_fator,3,1.045312428869076,0.3525332236727104
+cristaos_direita_centro_esquerda,2022,federal,Comicios,valor_despesa,anova_um_fator,3,0.4371924980123193,0.6461530415209379
+cristaos_direita_centro_esquerda,2022,federal,Comicios,pct_despesa_tipo,anova_um_fator,3,0.8829466783990588,0.41436094694439274
+cristaos_direita_centro_esquerda,2022,federal,Diversas a especificar,valor_despesa,anova_um_fator,3,1.9418998812042887,0.14477096889294766
+cristaos_direita_centro_esquerda,2022,federal,Diversas a especificar,pct_despesa_tipo,anova_um_fator,3,0.541612237883793,0.5822323760811613
+cristaos_direita_centro_esquerda,2022,federal,Servicos prestados por terceiros,valor_despesa,anova_um_fator,3,3.591290858573363,0.02844841854247354
+cristaos_direita_centro_esquerda,2022,federal,Servicos prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.8991445497794011,0.40773232289876554
+cristaos_direita_centro_esquerda,2022,federal,Despesa com Impulsionamento de Conteudos,valor_despesa,anova_um_fator,3,2.092138254948922,0.12476145732145646
+cristaos_direita_centro_esquerda,2022,federal,Despesa com Impulsionamento de Conteudos,pct_despesa_tipo,anova_um_fator,3,1.3596895148208026,0.25791568103209017
+cristaos_direita_centro_esquerda,2022,federal,Despesa com geradores de energia,valor_despesa,anova_um_fator,3,0.610960170166635,0.5433314152251665
+cristaos_direita_centro_esquerda,2022,federal,Despesa com geradores de energia,pct_despesa_tipo,anova_um_fator,3,0.7148854607866518,0.4898675109457978
+cristaos_direita_centro_esquerda,2022,federal,Despesas com pessoal,valor_despesa,anova_um_fator,3,1.6877138133046816,0.18624633534096233
+cristaos_direita_centro_esquerda,2022,federal,Despesas com pessoal,pct_despesa_tipo,anova_um_fator,3,0.5496353628683285,0.5775922564745574
+cristaos_direita_centro_esquerda,2022,federal,Doacoes financeiras a outros candidatos/partidos,valor_despesa,anova_um_fator,3,3.3205777587317056,0.037123158349562514
+cristaos_direita_centro_esquerda,2022,federal,Doacoes financeiras a outros candidatos/partidos,pct_despesa_tipo,anova_um_fator,3,1.8546028087019848,0.1578484391436467
+cristaos_direita_centro_esquerda,2022,federal,Locacao/cessao de bens imoveis,valor_despesa,anova_um_fator,3,1.2827800683085855,0.27839505090407407
+cristaos_direita_centro_esquerda,2022,federal,Locacao/cessao de bens imoveis,pct_despesa_tipo,anova_um_fator,3,0.8332616489814095,0.43537676631258126
+cristaos_direita_centro_esquerda,2022,federal,Locacao/cessao de bens moveis (exceto veiculos),valor_despesa,anova_um_fator,3,0.46372123053613923,0.6292740306991246
+cristaos_direita_centro_esquerda,2022,federal,Locacao/cessao de bens moveis (exceto veiculos),pct_despesa_tipo,anova_um_fator,3,0.5641728686482369,0.5692790542839986
+cristaos_direita_centro_esquerda,2022,federal,"Producao de jingles, vinhetas e slogans",valor_despesa,anova_um_fator,3,0.039842998255802696,0.9609440813778729
+cristaos_direita_centro_esquerda,2022,federal,"Producao de jingles, vinhetas e slogans",pct_despesa_tipo,anova_um_fator,3,0.22466674497929792,0.798882350892644
+cristaos_direita_centro_esquerda,2022,federal,"Producao de programas de radio, televisao ou video",valor_despesa,anova_um_fator,3,0.7627700403942603,0.46704486463357503
+cristaos_direita_centro_esquerda,2022,federal,"Producao de programas de radio, televisao ou video",pct_despesa_tipo,anova_um_fator,3,1.4826102785952944,0.22827997057916635
+cristaos_direita_centro_esquerda,2022,federal,Publicidade por carros de som,valor_despesa,anova_um_fator,3,1.1902353161771646,0.30521653226439804
+cristaos_direita_centro_esquerda,2022,federal,Publicidade por carros de som,pct_despesa_tipo,anova_um_fator,3,0.411527100247979,0.6629157061558895
+cristaos_direita_centro_esquerda,2022,federal,Servicos advocaticios,valor_despesa,anova_um_fator,3,4.577095551742378,0.01082513017856567
+cristaos_direita_centro_esquerda,2022,federal,Servicos advocaticios,pct_despesa_tipo,anova_um_fator,3,0.9809820234159364,0.3758362106881804
+cristaos_direita_centro_esquerda,2022,federal,Servicos contabeis,valor_despesa,anova_um_fator,3,5.8983905705116655,0.0029863328916042457
+cristaos_direita_centro_esquerda,2022,federal,Servicos contabeis,pct_despesa_tipo,anova_um_fator,3,0.9275730574877584,0.39635515256391884
+cristaos_direita_centro_esquerda,2022,estadual,Publicidade por adesivos,valor_despesa,anova_um_fator,3,1.2727819897750379,0.280723662161657
+cristaos_direita_centro_esquerda,2022,estadual,Publicidade por adesivos,pct_despesa_tipo,anova_um_fator,3,0.23406123268940715,0.791377653240281
+cristaos_direita_centro_esquerda,2022,estadual,Servicos prestados por terceiros,valor_despesa,anova_um_fator,3,2.7371726412355635,0.06547305658178547
+cristaos_direita_centro_esquerda,2022,estadual,Servicos prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,3.37481044393272,0.03480395394187268
+cristaos_direita_centro_esquerda,2022,estadual,Locacao/cessao de bens imoveis,valor_despesa,anova_um_fator,3,3.377946626024349,0.034696052745516855
+cristaos_direita_centro_esquerda,2022,estadual,Locacao/cessao de bens imoveis,pct_despesa_tipo,anova_um_fator,3,3.677907499502527,0.02578447791277646
+cristaos_direita_centro_esquerda,2022,estadual,Agua,valor_despesa,anova_um_fator,3,0.8740060157416102,0.41774895678556634
+cristaos_direita_centro_esquerda,2022,estadual,Agua,pct_despesa_tipo,anova_um_fator,3,0.914835830158327,0.4010792080226847
+cristaos_direita_centro_esquerda,2022,estadual,Comicios,valor_despesa,anova_um_fator,3,0.7433966346036073,0.475885547583182
+cristaos_direita_centro_esquerda,2022,estadual,Comicios,pct_despesa_tipo,anova_um_fator,3,0.9775532023956192,0.37676330801913827
+cristaos_direita_centro_esquerda,2022,estadual,Despesa com Impulsionamento de Conteudos,valor_despesa,anova_um_fator,3,2.507680817430968,0.08221670438153732
+cristaos_direita_centro_esquerda,2022,estadual,Despesa com Impulsionamento de Conteudos,pct_despesa_tipo,anova_um_fator,3,3.674770862955635,0.025864605931762413
+cristaos_direita_centro_esquerda,2022,estadual,Energia eletrica,valor_despesa,anova_um_fator,3,2.019795723123218,0.13348488638978528
+cristaos_direita_centro_esquerda,2022,estadual,Energia eletrica,pct_despesa_tipo,anova_um_fator,3,2.234348170728861,0.1078543301161161
+cristaos_direita_centro_esquerda,2022,estadual,Locacao/cessao de bens moveis (exceto veiculos),valor_despesa,anova_um_fator,3,0.8400574141902057,0.43213721081409334
+cristaos_direita_centro_esquerda,2022,estadual,Locacao/cessao de bens moveis (exceto veiculos),pct_despesa_tipo,anova_um_fator,3,0.8103835776794248,0.4451202660265801
+cristaos_direita_centro_esquerda,2022,estadual,Pre-instalacao fisica de comite de campanha,valor_despesa,anova_um_fator,3,0.99157136402125,0.3715337968035072
+cristaos_direita_centro_esquerda,2022,estadual,Pre-instalacao fisica de comite de campanha,pct_despesa_tipo,anova_um_fator,3,0.8918390899659501,0.41038436479986473
+cristaos_direita_centro_esquerda,2022,estadual,Publicidade por jornais e revistas,valor_despesa,anova_um_fator,3,2.2226663218290597,0.10911328215040435
+cristaos_direita_centro_esquerda,2022,estadual,Publicidade por jornais e revistas,pct_despesa_tipo,anova_um_fator,3,1.3721646867159882,0.2542648798047167
+cristaos_direita_centro_esquerda,2022,federal,Encargos sociais,valor_despesa,anova_um_fator,3,3.0603460010672663,0.04796236353752702
+cristaos_direita_centro_esquerda,2022,federal,Encargos sociais,pct_despesa_tipo,anova_um_fator,3,5.046393048523034,0.006844996065247363
+cristaos_direita_centro_esquerda,2022,federal,Materiais de expediente,valor_despesa,anova_um_fator,3,2.0698700528003937,0.12754179940909896
+cristaos_direita_centro_esquerda,2022,federal,Materiais de expediente,pct_despesa_tipo,anova_um_fator,3,3.5283661733672655,0.030262971062521352
+cristaos_direita_centro_esquerda,2022,federal,Taxa de Administracao de Financiamento Coletivo,valor_despesa,anova_um_fator,3,0.5482257316410017,0.5784048075516804
+cristaos_direita_centro_esquerda,2022,federal,Taxa de Administracao de Financiamento Coletivo,pct_despesa_tipo,anova_um_fator,3,0.8145356670023131,0.4435726115081896
+cristaos_direita_centro_esquerda,2022,federal,Alimentacao,valor_despesa,anova_um_fator,3,0.3813031597137831,0.6832169413462784
+cristaos_direita_centro_esquerda,2022,federal,Alimentacao,pct_despesa_tipo,anova_um_fator,3,0.13405155652690764,0.8745839545900527
+cristaos_direita_centro_esquerda,2022,federal,Despesas com Hospedagem,valor_despesa,anova_um_fator,3,0.43295182819622036,0.6488930527229078
+cristaos_direita_centro_esquerda,2022,federal,Despesas com Hospedagem,pct_despesa_tipo,anova_um_fator,3,2.138328710773647,0.11918691330549602
+cristaos_direita_centro_esquerda,2022,federal,Agua,valor_despesa,anova_um_fator,3,1.1279730645900499,0.3247084202248427
+cristaos_direita_centro_esquerda,2022,federal,Agua,pct_despesa_tipo,anova_um_fator,3,0.4894613100745106,0.6133204034408563
+cristaos_direita_centro_esquerda,2022,estadual,Diversas a especificar,valor_despesa,anova_um_fator,3,1.0219495091981161,0.3604496106539167
+cristaos_direita_centro_esquerda,2022,estadual,Diversas a especificar,pct_despesa_tipo,anova_um_fator,3,0.14395710265237557,0.8659515107832396
+cristaos_direita_centro_esquerda,2022,estadual,"Producao de programas de radio, televisao ou video",valor_despesa,anova_um_fator,3,2.915258137098808,0.05487370559063641
+cristaos_direita_centro_esquerda,2022,estadual,"Producao de programas de radio, televisao ou video",pct_despesa_tipo,anova_um_fator,3,3.158282716570645,0.043128329387830296
+cristaos_direita_centro_esquerda,2022,federal,Energia eletrica,valor_despesa,anova_um_fator,3,1.8900779044978717,0.15239667586065764
+cristaos_direita_centro_esquerda,2022,federal,Energia eletrica,pct_despesa_tipo,anova_um_fator,3,2.2899082665931347,0.10259209458631251
+cristaos_direita_centro_esquerda,2022,federal,Telefone,valor_despesa,anova_um_fator,3,1.1682567357934321,0.3119591248979976
+cristaos_direita_centro_esquerda,2022,federal,Telefone,pct_despesa_tipo,anova_um_fator,3,1.2582099025132278,0.2852760672418202
+cristaos_direita_centro_esquerda,2022,estadual,Despesas com transporte ou deslocamento,valor_despesa,anova_um_fator,3,1.0626785445757003,0.3461072570465293
+cristaos_direita_centro_esquerda,2022,estadual,Despesas com transporte ou deslocamento,pct_despesa_tipo,anova_um_fator,3,0.16957392668146964,0.844060354127242
+cristaos_direita_centro_esquerda,2022,federal,Eventos de promocao da candidatura,valor_despesa,anova_um_fator,3,0.7910160488644118,0.4540865415387225
+cristaos_direita_centro_esquerda,2022,federal,Eventos de promocao da candidatura,pct_despesa_tipo,anova_um_fator,3,1.1735947334766266,0.3103078942200785
+cristaos_direita_centro_esquerda,2022,estadual,Doacoes financeiras a outros candidatos/partidos,valor_despesa,anova_um_fator,3,3.8818852385443363,0.02107436631000373
+cristaos_direita_centro_esquerda,2022,estadual,Doacoes financeiras a outros candidatos/partidos,pct_despesa_tipo,anova_um_fator,3,2.3332492069304025,0.09776300276122742
+cristaos_direita_centro_esquerda,2022,estadual,Publicidade por carros de som,valor_despesa,anova_um_fator,3,0.6574770927775276,0.5184889481924784
+cristaos_direita_centro_esquerda,2022,estadual,Publicidade por carros de som,pct_despesa_tipo,anova_um_fator,3,0.30160825364095845,0.73972752692954
+cristaos_direita_centro_esquerda,2022,federal,Publicidade por jornais e revistas,valor_despesa,anova_um_fator,3,0.4923235133321618,0.6115717196463112
+cristaos_direita_centro_esquerda,2022,federal,Publicidade por jornais e revistas,pct_despesa_tipo,anova_um_fator,3,0.556295119357541,0.5737688705038984
+cristaos_direita_centro_esquerda,2022,estadual,Servicos proprios prestados por terceiros,valor_despesa,anova_um_fator,3,1.3159011612286933,0.26892071132814416
+cristaos_direita_centro_esquerda,2022,estadual,Servicos proprios prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.9184880466541305,0.39962101075702233
+cristaos_direita_centro_esquerda,2022,federal,Multas eleitorais,valor_despesa,anova_um_fator,3,0.3930914599590217,0.6752255259761331
+cristaos_direita_centro_esquerda,2022,federal,Multas eleitorais,pct_despesa_tipo,anova_um_fator,3,0.39309145995902195,0.675225525976133
+cristaos_direita_centro_esquerda,2022,estadual,Alimentacao,valor_despesa,anova_um_fator,3,0.27477426045792686,0.7598286723907262
+cristaos_direita_centro_esquerda,2022,estadual,Alimentacao,pct_despesa_tipo,anova_um_fator,3,4.531729076998621,0.011092014751350996
+cristaos_direita_centro_esquerda,2022,estadual,Materiais de expediente,valor_despesa,anova_um_fator,3,0.19447146957527767,0.8233158445834344
+cristaos_direita_centro_esquerda,2022,estadual,Materiais de expediente,pct_despesa_tipo,anova_um_fator,3,1.5749361470888554,0.2077816690006003
+cristaos_direita_centro_esquerda,2022,estadual,Taxa de Administracao de Financiamento Coletivo,valor_despesa,anova_um_fator,3,7.180232194332217,0.0008211461521234611
+cristaos_direita_centro_esquerda,2022,estadual,Taxa de Administracao de Financiamento Coletivo,pct_despesa_tipo,anova_um_fator,3,2.3139352651300884,0.09965636278746369
+cristaos_direita_centro_esquerda,2022,federal,Criacao e inclusao de paginas na internet,valor_despesa,anova_um_fator,3,0.84537410401157,0.43015670561447855
+cristaos_direita_centro_esquerda,2022,federal,Criacao e inclusao de paginas na internet,pct_despesa_tipo,anova_um_fator,3,0.3281884607625654,0.7204195805582688
+cristaos_direita_centro_esquerda,2022,federal,Servicos proprios prestados por terceiros,valor_despesa,anova_um_fator,3,1.00320409841424,0.3676164866073044
+cristaos_direita_centro_esquerda,2022,federal,Servicos proprios prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.5457261307702552,0.5798484733959747
+cristaos_direita_centro_esquerda,2022,estadual,Correspondencias e despesas postais,valor_despesa,anova_um_fator,3,0.8816110316866458,0.41459221064275764
+cristaos_direita_centro_esquerda,2022,estadual,Correspondencias e despesas postais,pct_despesa_tipo,anova_um_fator,3,0.6536766123579163,0.5204593640714326
+cristaos_direita_centro_esquerda,2022,estadual,Despesas com Hospedagem,valor_despesa,anova_um_fator,3,3.498000203894504,0.03080831835740373
+cristaos_direita_centro_esquerda,2022,estadual,Despesas com Hospedagem,pct_despesa_tipo,anova_um_fator,3,2.5067019082008475,0.08229663154960426
+cristaos_direita_centro_esquerda,2022,estadual,Passagem Aerea,valor_despesa,anova_um_fator,3,2.1311392171344177,0.11950118587558538
+cristaos_direita_centro_esquerda,2022,estadual,Passagem Aerea,pct_despesa_tipo,anova_um_fator,3,2.1311392171344172,0.11950118587558543
+cristaos_direita_centro_esquerda,2022,estadual,Reembolsos de gastos realizados por eleitores,valor_despesa,anova_um_fator,3,0.9786341921280647,0.3763574281744605
+cristaos_direita_centro_esquerda,2022,estadual,Reembolsos de gastos realizados por eleitores,pct_despesa_tipo,anova_um_fator,3,0.3177881875628435,0.7278659037571219
+cristaos_direita_centro_esquerda,2022,estadual,"Impostos, contribuicoes e taxas",valor_despesa,anova_um_fator,3,0.6741115272397599,0.509952241415021
+cristaos_direita_centro_esquerda,2022,estadual,"Impostos, contribuicoes e taxas",pct_despesa_tipo,anova_um_fator,3,0.47159778335324054,0.6242101965312435
+cristaos_direita_centro_esquerda,2022,federal,Despesas com transporte ou deslocamento,valor_despesa,anova_um_fator,3,0.1894867681999256,0.8274573373444052
+cristaos_direita_centro_esquerda,2022,federal,Despesas com transporte ou deslocamento,pct_despesa_tipo,anova_um_fator,3,1.0990992956669567,0.3341676101150933
+cristaos_direita_centro_esquerda,2022,federal,Correspondencias e despesas postais,valor_despesa,anova_um_fator,3,0.33892801578845155,0.7127366423709449
+cristaos_direita_centro_esquerda,2022,federal,Correspondencias e despesas postais,pct_despesa_tipo,anova_um_fator,3,0.30811381442717245,0.7350046261200093
+cristaos_direita_centro_esquerda,2022,federal,Pre-instalacao fisica de comite de campanha,valor_despesa,anova_um_fator,3,0.653037038033389,0.5210125694186709
+cristaos_direita_centro_esquerda,2022,federal,Pre-instalacao fisica de comite de campanha,pct_despesa_tipo,anova_um_fator,3,0.6868403293835843,0.5037513992516969
+cristaos_direita_centro_esquerda,2022,estadual,Telefone,valor_despesa,anova_um_fator,3,0.4116811050341332,0.6627020054903747
+cristaos_direita_centro_esquerda,2022,estadual,Telefone,pct_despesa_tipo,anova_um_fator,3,0.4116811050341333,0.6627020054903747
+cristaos_direita_centro_esquerda,2022,estadual,Eventos de promocao da candidatura,valor_despesa,anova_um_fator,3,0.9618423833530193,0.38271205885650667
+cristaos_direita_centro_esquerda,2022,estadual,Eventos de promocao da candidatura,pct_despesa_tipo,anova_um_fator,3,1.5709431802962723,0.20860912308638788
+cristaos_direita_centro_esquerda,2022,federal,Pesquisas ou testes eleitorais,valor_despesa,anova_um_fator,3,0.6533915078080759,0.5208285154916013
+cristaos_direita_centro_esquerda,2022,federal,Pesquisas ou testes eleitorais,pct_despesa_tipo,anova_um_fator,3,0.6605761178150655,0.5171120497485738
+cristaos_direita_centro_esquerda,2022,federal,"Impostos, contribuicoes e taxas",valor_despesa,anova_um_fator,3,2.1495170914867345,0.11787472043454972
+cristaos_direita_centro_esquerda,2022,federal,"Impostos, contribuicoes e taxas",pct_despesa_tipo,anova_um_fator,3,0.2994565204257024,0.7413857387664855
+cristaos_direita_centro_esquerda,2022,estadual,Aquisicao/Doacao de bens moveis ou imoveis,valor_despesa,anova_um_fator,3,0.8162336067390615,0.4425301340470398
+cristaos_direita_centro_esquerda,2022,estadual,Aquisicao/Doacao de bens moveis ou imoveis,pct_despesa_tipo,anova_um_fator,3,0.7623047542239896,0.4669916631657818
+cristaos_direita_centro_esquerda,2022,federal,Aquisicao/Doacao de bens moveis ou imoveis,valor_despesa,anova_um_fator,3,0.7755091861419751,0.4611551874168643
+cristaos_direita_centro_esquerda,2022,federal,Aquisicao/Doacao de bens moveis ou imoveis,pct_despesa_tipo,anova_um_fator,3,0.3992583975625628,0.6710823865799652
+cristaos_direita_centro_esquerda,2022,federal,Reembolsos de gastos realizados por eleitores,valor_despesa,anova_um_fator,3,2.694229415904293,0.06881205775729331
+cristaos_direita_centro_esquerda,2022,federal,Reembolsos de gastos realizados por eleitores,pct_despesa_tipo,anova_um_fator,3,2.694229415904294,0.06881205775729325
+cristaos_direita_centro_esquerda,2022,estadual,Pesquisas ou testes eleitorais,valor_despesa,anova_um_fator,3,2.131139217134415,0.1195011858755857
+cristaos_direita_centro_esquerda,2022,estadual,Pesquisas ou testes eleitorais,pct_despesa_tipo,anova_um_fator,3,2.131139217134417,0.11950118587558549
+cristaos_direita_centro_esquerda,2024,municipal,Combustiveis e lubrificantes,valor_despesa,anova_um_fator,3,10.132823089164846,4.0040053795350827e-05
+cristaos_direita_centro_esquerda,2024,municipal,Combustiveis e lubrificantes,pct_despesa_tipo,anova_um_fator,3,5.185166065107761,0.0056095672540435295
+cristaos_direita_centro_esquerda,2024,municipal,Diversas a especificar,valor_despesa,anova_um_fator,3,1.2780477039070468,0.2786125474817334
+cristaos_direita_centro_esquerda,2024,municipal,Diversas a especificar,pct_despesa_tipo,anova_um_fator,3,5.831806244759099,0.0029397735598826044
+cristaos_direita_centro_esquerda,2024,municipal,"Producao de jingles, vinhetas e slogans",valor_despesa,anova_um_fator,3,7.404787478430464,0.0006106752015200842
+cristaos_direita_centro_esquerda,2024,municipal,"Producao de jingles, vinhetas e slogans",pct_despesa_tipo,anova_um_fator,3,0.536853748957883,0.5845964258437332
+cristaos_direita_centro_esquerda,2024,municipal,Publicidade por materiais impressos,valor_despesa,anova_um_fator,3,6.1035603212001925,0.0022407390145292192
+cristaos_direita_centro_esquerda,2024,municipal,Publicidade por materiais impressos,pct_despesa_tipo,anova_um_fator,3,2.289300232028749,0.10137458987194585
+cristaos_direita_centro_esquerda,2024,municipal,Servicos advocaticios,valor_despesa,anova_um_fator,3,6.349858933969555,0.001751936957122043
+cristaos_direita_centro_esquerda,2024,municipal,Servicos advocaticios,pct_despesa_tipo,anova_um_fator,3,1.938529947749536,0.14395327852453285
+cristaos_direita_centro_esquerda,2024,municipal,Servicos contabeis,valor_despesa,anova_um_fator,3,8.278278802741532,0.00025519640018839264
+cristaos_direita_centro_esquerda,2024,municipal,Servicos contabeis,pct_despesa_tipo,anova_um_fator,3,1.6928440381714684,0.184032460372499
+cristaos_direita_centro_esquerda,2024,municipal,Publicidade por adesivos,valor_despesa,anova_um_fator,3,3.1762531274138164,0.04177129437918759
+cristaos_direita_centro_esquerda,2024,municipal,Publicidade por adesivos,pct_despesa_tipo,anova_um_fator,3,0.12553415099573317,0.8820266165120366
+cristaos_direita_centro_esquerda,2024,municipal,Taxa de Administracao de Financiamento Coletivo,valor_despesa,anova_um_fator,3,4.140798880654333,0.015929269215587655
+cristaos_direita_centro_esquerda,2024,municipal,Taxa de Administracao de Financiamento Coletivo,pct_despesa_tipo,anova_um_fator,3,0.6419239054427993,0.5262941444578756
+cristaos_direita_centro_esquerda,2024,municipal,Atividades de militancia e mobilizacao de rua,valor_despesa,anova_um_fator,3,2.9490468167632935,0.05242156909282417
+cristaos_direita_centro_esquerda,2024,municipal,Atividades de militancia e mobilizacao de rua,pct_despesa_tipo,anova_um_fator,3,10.226276969806387,3.6472539776145194e-05
+cristaos_direita_centro_esquerda,2024,municipal,Despesas com pessoal,valor_despesa,anova_um_fator,3,9.183898729595073,0.00010328798590612093
+cristaos_direita_centro_esquerda,2024,municipal,Despesas com pessoal,pct_despesa_tipo,anova_um_fator,3,24.78386632231843,1.7995587068624507e-11
+cristaos_direita_centro_esquerda,2024,municipal,Pre-instalacao fisica de comite de campanha,valor_despesa,anova_um_fator,3,0.3363670519476853,0.7143665175307299
+cristaos_direita_centro_esquerda,2024,municipal,Pre-instalacao fisica de comite de campanha,pct_despesa_tipo,anova_um_fator,3,0.48962199542579504,0.6128683153940762
+cristaos_direita_centro_esquerda,2024,municipal,Servicos prestados por terceiros,valor_despesa,anova_um_fator,3,9.24603803036664,9.707287320208136e-05
+cristaos_direita_centro_esquerda,2024,municipal,Servicos prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,5.7564888911555405,0.003169547265933466
+cristaos_direita_centro_esquerda,2024,municipal,Servicos proprios prestados por terceiros,valor_despesa,anova_um_fator,3,1.819339701764287,0.16217040077699948
+cristaos_direita_centro_esquerda,2024,municipal,Servicos proprios prestados por terceiros,pct_despesa_tipo,anova_um_fator,3,0.4774295553364957,0.6203859015762161
+cristaos_direita_centro_esquerda,2024,municipal,Aquisicao/Doacao de bens moveis ou imoveis,valor_despesa,anova_um_fator,3,0.43417231676702306,0.6478091814646572
+cristaos_direita_centro_esquerda,2024,municipal,Aquisicao/Doacao de bens moveis ou imoveis,pct_despesa_tipo,anova_um_fator,3,1.0968321278217836,0.33395541675624957
+cristaos_direita_centro_esquerda,2024,municipal,Cessao ou locacao de veiculos,valor_despesa,anova_um_fator,3,12.099834687955427,5.617745637716576e-06
+cristaos_direita_centro_esquerda,2024,municipal,Cessao ou locacao de veiculos,pct_despesa_tipo,anova_um_fator,3,10.493306887227181,2.7936026432371487e-05
+cristaos_direita_centro_esquerda,2024,municipal,Comicios,valor_despesa,anova_um_fator,3,0.3650453828829901,0.6941716331984833
+cristaos_direita_centro_esquerda,2024,municipal,Comicios,pct_despesa_tipo,anova_um_fator,3,1.693071702698544,0.18399057742130706
+cristaos_direita_centro_esquerda,2024,municipal,Despesa com Impulsionamento de Conteudos,valor_despesa,anova_um_fator,3,1.3886471546230352,0.24944621594460398
+cristaos_direita_centro_esquerda,2024,municipal,Despesa com Impulsionamento de Conteudos,pct_despesa_tipo,anova_um_fator,3,7.055389445765181,0.0008657613960760392
+cristaos_direita_centro_esquerda,2024,municipal,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",valor_despesa,anova_um_fator,3,0.7199179362869873,0.48680989272205855
+cristaos_direita_centro_esquerda,2024,municipal,"Encargos financeiros, taxas bancarias e/ou op. cartao de credito",pct_despesa_tipo,anova_um_fator,3,2.191728552669053,0.11176109327216766
+cristaos_direita_centro_esquerda,2024,municipal,Criacao e inclusao de paginas na internet,valor_despesa,anova_um_fator,3,1.6160941256963721,0.1987095609008161
+cristaos_direita_centro_esquerda,2024,municipal,Criacao e inclusao de paginas na internet,pct_despesa_tipo,anova_um_fator,3,4.399773935281366,0.012296789285997669
+cristaos_direita_centro_esquerda,2024,municipal,Locacao/cessao de bens imoveis,valor_despesa,anova_um_fator,3,1.508065562990933,0.221373023488431
+cristaos_direita_centro_esquerda,2024,municipal,Locacao/cessao de bens imoveis,pct_despesa_tipo,anova_um_fator,3,3.016115250546255,0.04902241971865156
+cristaos_direita_centro_esquerda,2024,municipal,Alimentacao,valor_despesa,anova_um_fator,3,1.32191996493147,0.26665557222057495
+cristaos_direita_centro_esquerda,2024,municipal,Alimentacao,pct_despesa_tipo,anova_um_fator,3,2.4241074466573544,0.08859361526977946
+cristaos_direita_centro_esquerda,2024,municipal,Locacao/cessao de bens moveis (exceto veiculos),valor_despesa,anova_um_fator,3,1.375513753858149,0.252743257314588
+cristaos_direita_centro_esquerda,2024,municipal,Locacao/cessao de bens moveis (exceto veiculos),pct_despesa_tipo,anova_um_fator,3,1.3063608020293274,0.27083617826990486
+cristaos_direita_centro_esquerda,2024,municipal,Materiais de expediente,valor_despesa,anova_um_fator,3,0.32598923838792726,0.7218183338653105
+cristaos_direita_centro_esquerda,2024,municipal,Materiais de expediente,pct_despesa_tipo,anova_um_fator,3,2.720226089811175,0.06589403549509523
+cristaos_direita_centro_esquerda,2024,municipal,"Producao de programas de radio, televisao ou video",valor_despesa,anova_um_fator,3,3.360502375451542,0.03474530771476179
+cristaos_direita_centro_esquerda,2024,municipal,"Producao de programas de radio, televisao ou video",pct_despesa_tipo,anova_um_fator,3,5.679892983821498,0.0034216513693021053
+cristaos_direita_centro_esquerda,2024,municipal,Publicidade por carros de som,valor_despesa,anova_um_fator,3,0.8287589154671882,0.43661182236334967
+cristaos_direita_centro_esquerda,2024,municipal,Publicidade por carros de som,pct_despesa_tipo,anova_um_fator,3,0.025673007902361208,0.9746537866246516
+cristaos_direita_centro_esquerda,2024,municipal,Eventos de promocao da candidatura,valor_despesa,anova_um_fator,3,0.7854377494092475,0.4559398008437921
+cristaos_direita_centro_esquerda,2024,municipal,Eventos de promocao da candidatura,pct_despesa_tipo,anova_um_fator,3,0.41129678956477533,0.6627980550054194
+cristaos_direita_centro_esquerda,2024,municipal,Despesas com transporte ou deslocamento,valor_despesa,anova_um_fator,3,0.6085383130518931,0.5441597880164531
+cristaos_direita_centro_esquerda,2024,municipal,Despesas com transporte ou deslocamento,pct_despesa_tipo,anova_um_fator,3,0.679976414106432,0.5066453665877615
+cristaos_direita_centro_esquerda,2024,municipal,Agua,valor_despesa,anova_um_fator,3,0.5274820990078414,0.5901003985049943
+cristaos_direita_centro_esquerda,2024,municipal,Agua,pct_despesa_tipo,anova_um_fator,3,0.5037517568774349,0.6042701194886576
+cristaos_direita_centro_esquerda,2024,municipal,Multas eleitorais,valor_despesa,anova_um_fator,3,1.8953710143004536,0.15030042524123788
+cristaos_direita_centro_esquerda,2024,municipal,Multas eleitorais,pct_despesa_tipo,anova_um_fator,3,0.22968595594838223,0.7947861003182676
+cristaos_direita_centro_esquerda,2024,municipal,Correspondencias e despesas postais,valor_despesa,anova_um_fator,3,0.5602635266758305,0.5710711237590249
+cristaos_direita_centro_esquerda,2024,municipal,Correspondencias e despesas postais,pct_despesa_tipo,anova_um_fator,3,2.181381806605772,0.11292310173603792
+cristaos_direita_centro_esquerda,2024,municipal,"Impostos, contribuicoes e taxas",valor_despesa,anova_um_fator,3,0.7690957133037298,0.46345117517407797
+cristaos_direita_centro_esquerda,2024,municipal,"Impostos, contribuicoes e taxas",pct_despesa_tipo,anova_um_fator,3,1.2160171112246843,0.29643911278633817
+cristaos_direita_centro_esquerda,2024,municipal,Doacoes financeiras a outros candidatos/partidos,valor_despesa,anova_um_fator,3,0.48519664512972255,0.6155862961590756
+cristaos_direita_centro_esquerda,2024,municipal,Doacoes financeiras a outros candidatos/partidos,pct_despesa_tipo,anova_um_fator,3,2.4748880714226194,0.08420856230851427
+cristaos_direita_centro_esquerda,2024,municipal,Despesas com Hospedagem,valor_despesa,anova_um_fator,3,0.8907608448506831,0.41036625572917473
+cristaos_direita_centro_esquerda,2024,municipal,Despesas com Hospedagem,pct_despesa_tipo,anova_um_fator,3,1.7494608675067693,0.1739049682606718
+cristaos_direita_centro_esquerda,2024,municipal,Publicidade por jornais e revistas,valor_despesa,anova_um_fator,3,1.56303889665557,0.20953434628544845
+cristaos_direita_centro_esquerda,2024,municipal,Publicidade por jornais e revistas,pct_despesa_tipo,anova_um_fator,3,1.9193527370650845,0.1467397803634206
+cristaos_direita_centro_esquerda,2024,municipal,Telefone,valor_despesa,anova_um_fator,3,2.262330711627846,0.10414491910914328
+cristaos_direita_centro_esquerda,2024,municipal,Telefone,pct_despesa_tipo,anova_um_fator,3,1.2912650665099112,0.27495490879658546
+cristaos_direita_centro_esquerda,2024,municipal,Energia eletrica,valor_despesa,anova_um_fator,3,1.4889021048474196,0.22565529679264096
+cristaos_direita_centro_esquerda,2024,municipal,Energia eletrica,pct_despesa_tipo,anova_um_fator,3,0.16999773099522691,0.8436684405025421
+cristaos_direita_centro_esquerda,2024,municipal,Reembolsos de gastos realizados por eleitores,valor_despesa,anova_um_fator,3,1.6489069034906934,0.1922966051497959
+cristaos_direita_centro_esquerda,2024,municipal,Reembolsos de gastos realizados por eleitores,pct_despesa_tipo,anova_um_fator,3,1.7761535439305292,0.1693255022898328
+cristaos_direita_centro_esquerda,2024,municipal,Pesquisas ou testes eleitorais,valor_despesa,anova_um_fator,3,0.3631968079678659,0.6954559826230607
+cristaos_direita_centro_esquerda,2024,municipal,Pesquisas ou testes eleitorais,pct_despesa_tipo,anova_um_fator,3,0.3631968079678653,0.6954559826230612
+cristaos_direita_centro_esquerda,2024,municipal,Encargos sociais,valor_despesa,anova_um_fator,3,1.663149311985481,0.1895778763296034
+cristaos_direita_centro_esquerda,2024,municipal,Encargos sociais,pct_despesa_tipo,anova_um_fator,3,0.8079979676797445,0.44576998366543436
+cristaos_direita_centro_esquerda,2024,municipal,Despesa com geradores de energia,valor_despesa,anova_um_fator,3,0.6539067148868719,0.520025862394675
+cristaos_direita_centro_esquerda,2024,municipal,Despesa com geradores de energia,pct_despesa_tipo,anova_um_fator,3,0.4400319854905881,0.644024565389994

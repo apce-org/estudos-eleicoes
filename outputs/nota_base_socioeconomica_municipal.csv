@@ -1,0 +1,3 @@
+﻿tema,status
+renda_media_municipal,incluído se existir em data/processed/municipios_socioeconomicos.csv ou parquet
+nivel_instrucao_municipal,incluído se existir em data/processed/municipios_socioeconomicos.csv ou parquet

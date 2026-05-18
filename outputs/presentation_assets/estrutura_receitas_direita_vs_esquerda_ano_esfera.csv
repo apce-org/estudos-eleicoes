@@ -1,0 +1,90 @@
+﻿ANO_ELEICAO_ANALISE,ESFERA,grupo,tipo_receita,valor_receita,total_grupo,proporcao
+2012,municipal,Cristãos de direita,Comercializacao de bens e/ou realizacao de eventos,200.0,32073363.75,6.235703918021383e-06
+2012,municipal,Cristãos de direita,Recursos de outros candidatos/comites,22040251.57,32073363.75,0.6871824153461297
+2012,municipal,Cristãos de direita,Recursos de partido politico,1817819.46,32073363.75,0.05667691964488757
+2012,municipal,Cristãos de direita,Recursos de pessoas juridicas,2158066.2600000002,32073363.75,0.06728531116415877
+2012,municipal,Cristãos de direita,Recursos proprios,6057026.46,32073363.75,0.18884911814090594
+2012,municipal,Cristãos de esquerda,Recursos de outros candidatos/comites,3106219.86,9122355.07,0.3405063534761095
+2012,municipal,Cristãos de esquerda,Recursos de partido politico,1419922.02,9122355.07,0.15565300945910232
+2012,municipal,Cristãos de esquerda,Recursos de pessoas juridicas,1292669.01,9122355.07,0.14170343075672454
+2012,municipal,Cristãos de esquerda,Recursos proprios,3303544.18,9122355.07,0.3621372063080636
+2014,estadual,Cristãos de direita,Recursos de outros candidatos/comites,2241698.33,10162825.53,0.22057825585833907
+2014,estadual,Cristãos de direita,Recursos de partido politico,1951138.19,10162825.53,0.19198776799231346
+2014,estadual,Cristãos de direita,Recursos de pessoas fisicas,2933117.25,10162825.53,0.28861237864820455
+2014,estadual,Cristãos de direita,Recursos de pessoas juridicas,1295364.45,10162825.53,0.12746105363869215
+2014,estadual,Cristãos de direita,Recursos proprios,1736507.31,10162825.53,0.1708685547020308
+2014,estadual,Cristãos de esquerda,Recursos de outros candidatos/comites,1107665.11,4425700.52,0.2502801771141985
+2014,estadual,Cristãos de esquerda,Recursos de partido politico,809523.58,4425700.52,0.18291422484230813
+2014,estadual,Cristãos de esquerda,Recursos de pessoas fisicas,1282942.56,4425700.52,0.28988463051268554
+2014,estadual,Cristãos de esquerda,Recursos de pessoas juridicas,550085.54,4425700.52,0.12429343953892301
+2014,estadual,Cristãos de esquerda,Recursos proprios,675483.73,4425700.52,0.152627527991885
+2014,federal,Cristãos de direita,Recursos de outros candidatos/comites,1761591.6400000001,8811989.71,0.19990849943922595
+2014,federal,Cristãos de direita,Recursos de partido politico,4413514.5200000005,8811989.71,0.5008533447322875
+2014,federal,Cristãos de direita,Recursos de pessoas fisicas,1016679.7,8811989.71,0.11537459001413199
+2014,federal,Cristãos de direita,Recursos de pessoas juridicas,1010093.39,8811989.71,0.11462716403920993
+2014,federal,Cristãos de direita,Recursos proprios,608652.56,8811989.71,0.06907095673401552
+2014,federal,Cristãos de esquerda,Recursos de outros candidatos/comites,292089.16,7293108.98,0.040050019929909225
+2014,federal,Cristãos de esquerda,Recursos de partido politico,4341422.390000001,7293108.98,0.595277323005257
+2014,federal,Cristãos de esquerda,Recursos de pessoas fisicas,793038.7,7293108.98,0.10873808442665009
+2014,federal,Cristãos de esquerda,Recursos de pessoas juridicas,1219097.2,7293108.98,0.1671574089106783
+2014,federal,Cristãos de esquerda,Recursos proprios,647097.89,7293108.98,0.08872730296154165
+2018,estadual,Cristãos de direita,Recursos de Financiamento Coletivo,3884.8,13602093.27,0.0002856030996764368
+2018,estadual,Cristãos de direita,Recursos de outros candidatos,1757764.8800000001,13602093.27,0.12922752734513487
+2018,estadual,Cristãos de direita,Recursos de partido politico,9199572.3,13602093.27,0.6763350403051605
+2018,estadual,Cristãos de direita,Recursos de pessoas fisicas,1304910.9,13602093.27,0.09593456493038736
+2018,estadual,Cristãos de direita,Recursos proprios,1335709.22,13602093.27,0.09819879877944698
+2018,estadual,Cristãos de esquerda,Recursos de Financiamento Coletivo,12989.55,4486858.62,0.002895021015839362
+2018,estadual,Cristãos de esquerda,Recursos de outros candidatos,724896.25,4486858.62,0.16155985989146232
+2018,estadual,Cristãos de esquerda,Recursos de partido politico,2009931.9100000001,4486858.62,0.44795971529854
+2018,estadual,Cristãos de esquerda,Recursos de pessoas fisicas,817397.74,4486858.62,0.1821759518689715
+2018,estadual,Cristãos de esquerda,Recursos proprios,921613.17,4486858.62,0.2054027657327879
+2018,federal,Cristãos de direita,Recursos de Financiamento Coletivo,7161.4400000000005,23374970.779999997,0.00030637214768745055
+2018,federal,Cristãos de direita,Recursos de outros candidatos,841875.87,23374970.779999997,0.036016125022082277
+2018,federal,Cristãos de direita,Recursos de partido politico,20653328.98,23374970.779999997,0.883565980654458
+2018,federal,Cristãos de direita,Recursos de pessoas fisicas,1285437.16,23374970.779999997,0.05499203280715288
+2018,federal,Cristãos de direita,Recursos proprios,587005.24,23374970.779999997,0.025112555028400343
+2018,federal,Cristãos de esquerda,Recursos de Financiamento Coletivo,18860.86,5232864.7,0.0036043087450741847
+2018,federal,Cristãos de esquerda,Recursos de outros candidatos,224948.28,5232864.7,0.042987597214198946
+2018,federal,Cristãos de esquerda,Recursos de partido politico,3608095.7800000003,5232864.7,0.6895067972997658
+2018,federal,Cristãos de esquerda,Recursos de pessoas fisicas,482498.75,5232864.7,0.09220547017009631
+2018,federal,Cristãos de esquerda,Recursos proprios,898461.03,5232864.7,0.1716958265708647
+2020,municipal,Cristãos de direita,Recursos de Financiamento Coletivo,60029.92,31132064.39,0.001928234480309065
+2020,municipal,Cristãos de direita,Recursos de outros candidatos,3375150.4899999998,31132064.39,0.10841396342107462
+2020,municipal,Cristãos de direita,Recursos de partido politico,13680165.12,31132064.39,0.4394236420889016
+2020,municipal,Cristãos de direita,Recursos de pessoas fisicas,9480332.26,31132064.39,0.30451987189918567
+2020,municipal,Cristãos de direita,Recursos proprios,4523569.44,31132064.39,0.14530258524882875
+2020,municipal,Cristãos de esquerda,Recursos de Financiamento Coletivo,77282.91,9462810.38,0.008167014543939324
+2020,municipal,Cristãos de esquerda,Recursos de outros candidatos,1190702.25,9462810.38,0.12582966393541956
+2020,municipal,Cristãos de esquerda,Recursos de partido politico,3896625.27,9462810.38,0.41178308700295435
+2020,municipal,Cristãos de esquerda,Recursos de pessoas fisicas,2619860.71,9462810.38,0.27685862918030907
+2020,municipal,Cristãos de esquerda,Recursos proprios,1677083.95,9462810.38,0.1772289502434265
+2022,estadual,Cristãos de direita,Recursos de Financiamento Coletivo,2097.0,27791285.639999997,7.545530736375103e-05
+2022,estadual,Cristãos de direita,Recursos de outros candidatos,2593113.56,27791285.639999997,0.09330671468712955
+2022,estadual,Cristãos de direita,Recursos de partido politico,21850839.97,27791285.639999997,0.7862478999010426
+2022,estadual,Cristãos de direita,Recursos de pessoas fisicas,2442018.72,27791285.639999997,0.08786994425638239
+2022,estadual,Cristãos de direita,Recursos proprios,901361.2,27791285.639999997,0.03243323146960394
+2022,estadual,Cristãos de esquerda,Recursos de Financiamento Coletivo,26105.13,8148880.96,0.0032035232970196686
+2022,estadual,Cristãos de esquerda,Recursos de outros candidatos,337553.48,8148880.96,0.04142329255476079
+2022,estadual,Cristãos de esquerda,Recursos de partido politico,6321617.88,8148880.96,0.7757651524216155
+2022,estadual,Cristãos de esquerda,Recursos de pessoas fisicas,987509.3,8148880.96,0.12118342442935871
+2022,estadual,Cristãos de esquerda,Recursos proprios,474479.37,8148880.96,0.058226322402922914
+2022,federal,Cristãos de direita,Recursos de Financiamento Coletivo,22054.0,58571391.669999994,0.00037653194454138195
+2022,federal,Cristãos de direita,Recursos de outros candidatos,337680.05,58571391.669999994,0.0057652727786039306
+2022,federal,Cristãos de direita,Recursos de partido politico,56485583.55,58571391.669999994,0.9643886194176202
+2022,federal,Cristãos de direita,Recursos de pessoas fisicas,1454236.7200000002,58571391.669999994,0.02482844744740552
+2022,federal,Cristãos de direita,Recursos proprios,267986.55,58571391.669999994,0.004575383004554108
+2022,federal,Cristãos de esquerda,Recursos de Financiamento Coletivo,20693.0,15883346.940000001,0.0013028110560178948
+2022,federal,Cristãos de esquerda,Recursos de outros candidatos,239168.06,15883346.940000001,0.015057787310411793
+2022,federal,Cristãos de esquerda,Recursos de partido politico,14576782.31,15883346.940000001,0.9177399678458449
+2022,federal,Cristãos de esquerda,Recursos de pessoas fisicas,876843.6,15883346.940000001,0.05520521608652842
+2022,federal,Cristãos de esquerda,Recursos proprios,166226.95,15883346.940000001,0.010465486312672585
+2024,municipal,Cristãos de direita,Recursos de Financiamento Coletivo,12497.64,68861963.3,0.00018148829050303886
+2024,municipal,Cristãos de direita,Recursos de outros candidatos,6353025.3,68861963.3,0.09225739429360708
+2024,municipal,Cristãos de direita,Recursos de partido politico,48278345.87,68861963.3,0.7010887223716434
+2024,municipal,Cristãos de direita,Recursos de pessoas fisicas,9989984.03,68861963.3,0.14507259960739458
+2024,municipal,Cristãos de direita,Recursos proprios,4190648.9,68861963.3,0.060855785969146196
+2024,municipal,Cristãos de esquerda,Recursos de Financiamento Coletivo,55378.06,16487070.389999999,0.003358878120250447
+2024,municipal,Cristãos de esquerda,Recursos de outros candidatos,1423046.0,16487070.389999999,0.08631284796740654
+2024,municipal,Cristãos de esquerda,Recursos de partido politico,10517206.87,16487070.389999999,0.6379063485031922
+2024,municipal,Cristãos de esquerda,Recursos de pessoas fisicas,3030074.75,16487070.389999999,0.18378491013405568
+2024,municipal,Cristãos de esquerda,Recursos proprios,1444734.15,16487070.389999999,0.08762831211518834

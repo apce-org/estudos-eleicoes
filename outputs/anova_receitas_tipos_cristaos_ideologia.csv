@@ -1,0 +1,127 @@
+﻿comparacao,ANO_ELEICAO_ANALISE,ESFERA,tipo_receita,variavel,teste,n_grupos_validos,estatistica,p_valor
+cristaos_direita_centro_esquerda,2012,municipal,Recursos proprios,valor_receita,anova_um_fator,3,3.5439484691307848,0.028928893860259604
+cristaos_direita_centro_esquerda,2012,municipal,Recursos proprios,pct_receita_tipo,anova_um_fator,3,6.175250111521805,0.002086825356285843
+cristaos_direita_centro_esquerda,2012,municipal,Recursos de outros candidatos/comites,valor_receita,anova_um_fator,3,0.7104716130510543,0.491432815925741
+cristaos_direita_centro_esquerda,2012,municipal,Recursos de outros candidatos/comites,pct_receita_tipo,anova_um_fator,3,13.501076441256584,1.3901691169000397e-06
+cristaos_direita_centro_esquerda,2012,municipal,Recursos de pessoas juridicas,valor_receita,anova_um_fator,3,0.8105856133326466,0.4446216870053617
+cristaos_direita_centro_esquerda,2012,municipal,Recursos de pessoas juridicas,pct_receita_tipo,anova_um_fator,3,6.535793983763507,0.0014556858263503319
+cristaos_direita_centro_esquerda,2012,municipal,Recursos de partido politico,valor_receita,anova_um_fator,3,1.1832865149703489,0.3063058383466558
+cristaos_direita_centro_esquerda,2012,municipal,Recursos de partido politico,pct_receita_tipo,anova_um_fator,3,25.727037922400296,7.087593035380463e-12
+cristaos_direita_centro_esquerda,2012,municipal,Comercializacao de bens e/ou realizacao de eventos,valor_receita,anova_um_fator,3,0.5973758900782798,0.5502698420242166
+cristaos_direita_centro_esquerda,2012,municipal,Comercializacao de bens e/ou realizacao de eventos,pct_receita_tipo,anova_um_fator,3,0.5973758900782806,0.5502698420242161
+cristaos_direita_centro_esquerda,2012,municipal,Recursos de doacoes pela Internet,valor_receita,anova_um_fator,3,1.383462060609328,0.2507485989453308
+cristaos_direita_centro_esquerda,2012,municipal,Recursos de doacoes pela Internet,pct_receita_tipo,anova_um_fator,3,1.383462060609334,0.25074859894532936
+cristaos_direita_centro_esquerda,2014,federal,Recursos de pessoas fisicas,valor_receita,anova_um_fator,3,5.406160168082192,0.005035826761937426
+cristaos_direita_centro_esquerda,2014,federal,Recursos de pessoas fisicas,pct_receita_tipo,anova_um_fator,3,0.47777103994884523,0.620736088261235
+cristaos_direita_centro_esquerda,2014,federal,Recursos proprios,valor_receita,anova_um_fator,3,4.506168147114937,0.011963367883668452
+cristaos_direita_centro_esquerda,2014,federal,Recursos proprios,pct_receita_tipo,anova_um_fator,3,1.1725672666816929,0.3112882964565565
+cristaos_direita_centro_esquerda,2014,estadual,Recursos de pessoas fisicas,valor_receita,anova_um_fator,3,3.833870548778127,0.022183619532110017
+cristaos_direita_centro_esquerda,2014,estadual,Recursos de pessoas fisicas,pct_receita_tipo,anova_um_fator,3,0.7343034731409184,0.4802913291638099
+cristaos_direita_centro_esquerda,2014,estadual,Recursos proprios,valor_receita,anova_um_fator,3,0.04667727927507223,0.9543989859931363
+cristaos_direita_centro_esquerda,2014,estadual,Recursos proprios,pct_receita_tipo,anova_um_fator,3,0.3001912960607374,0.740793134902803
+cristaos_direita_centro_esquerda,2014,federal,Recursos de outros candidatos/comites,valor_receita,anova_um_fator,3,2.936210105136687,0.0549215494398572
+cristaos_direita_centro_esquerda,2014,federal,Recursos de outros candidatos/comites,pct_receita_tipo,anova_um_fator,3,0.5602763202145238,0.5717752627962561
+cristaos_direita_centro_esquerda,2014,estadual,Recursos de outros candidatos/comites,valor_receita,anova_um_fator,3,4.817552355410527,0.00841762568165273
+cristaos_direita_centro_esquerda,2014,estadual,Recursos de outros candidatos/comites,pct_receita_tipo,anova_um_fator,3,0.3282463380878283,0.7203211566247609
+cristaos_direita_centro_esquerda,2014,estadual,Recursos de pessoas juridicas,valor_receita,anova_um_fator,3,2.1598940639838076,0.1162771106429129
+cristaos_direita_centro_esquerda,2014,estadual,Recursos de pessoas juridicas,pct_receita_tipo,anova_um_fator,3,1.0133921960257462,0.36363631888818776
+cristaos_direita_centro_esquerda,2014,estadual,Recursos de partido politico,valor_receita,anova_um_fator,3,1.7894915483355065,0.1679789843927647
+cristaos_direita_centro_esquerda,2014,estadual,Recursos de partido politico,pct_receita_tipo,anova_um_fator,3,1.265667752646426,0.28283956866606674
+cristaos_direita_centro_esquerda,2014,federal,Recursos de partido politico,valor_receita,anova_um_fator,3,2.018940207391052,0.1349817932645837
+cristaos_direita_centro_esquerda,2014,federal,Recursos de partido politico,pct_receita_tipo,anova_um_fator,3,0.11193487011564748,0.8941478167384026
+cristaos_direita_centro_esquerda,2014,federal,Recursos de pessoas juridicas,valor_receita,anova_um_fator,3,3.2183200388601456,0.041706384425105186
+cristaos_direita_centro_esquerda,2014,federal,Recursos de pessoas juridicas,pct_receita_tipo,anova_um_fator,3,1.8022614608144594,0.16708750460383362
+cristaos_direita_centro_esquerda,2014,federal,Doacoes pela Internet,valor_receita,anova_um_fator,3,0.5756173913043481,0.5631101024103604
+cristaos_direita_centro_esquerda,2014,federal,Doacoes pela Internet,pct_receita_tipo,anova_um_fator,3,0.5756173913043474,0.5631101024103607
+cristaos_direita_centro_esquerda,2014,federal,Rendimentos de aplicacoes financeiras,valor_receita,anova_um_fator,3,2.408600396698591,0.09205085281317779
+cristaos_direita_centro_esquerda,2014,federal,Rendimentos de aplicacoes financeiras,pct_receita_tipo,anova_um_fator,3,0.6120246608740562,0.5430721158619338
+cristaos_direita_centro_esquerda,2014,estadual,Recursos de origens nao identificadas,valor_receita,anova_um_fator,3,0.6872668230200257,0.503363663101704
+cristaos_direita_centro_esquerda,2014,estadual,Recursos de origens nao identificadas,pct_receita_tipo,anova_um_fator,3,0.6872668230200267,0.5033636631017036
+cristaos_direita_centro_esquerda,2018,estadual,Recursos proprios,valor_receita,anova_um_fator,3,0.6453254353837313,0.524829078119057
+cristaos_direita_centro_esquerda,2018,estadual,Recursos proprios,pct_receita_tipo,anova_um_fator,3,0.32916113565782307,0.7196474868266316
+cristaos_direita_centro_esquerda,2018,estadual,Recursos de partido politico,valor_receita,anova_um_fator,3,7.2758827784144025,0.00075012713717201
+cristaos_direita_centro_esquerda,2018,estadual,Recursos de partido politico,pct_receita_tipo,anova_um_fator,3,3.63607068611795,0.02689571772449843
+cristaos_direita_centro_esquerda,2018,estadual,Recursos de pessoas fisicas,valor_receita,anova_um_fator,3,0.30563791067026963,0.7367596049680518
+cristaos_direita_centro_esquerda,2018,estadual,Recursos de pessoas fisicas,pct_receita_tipo,anova_um_fator,3,2.869273536654951,0.05746243715836012
+cristaos_direita_centro_esquerda,2018,estadual,Recursos de outros candidatos,valor_receita,anova_um_fator,3,3.730190992573594,0.024505713524799282
+cristaos_direita_centro_esquerda,2018,estadual,Recursos de outros candidatos,pct_receita_tipo,anova_um_fator,3,2.9560080689542008,0.05272927916277917
+cristaos_direita_centro_esquerda,2018,federal,Recursos de pessoas fisicas,valor_receita,anova_um_fator,3,1.5712773928607053,0.20949035800115656
+cristaos_direita_centro_esquerda,2018,federal,Recursos de pessoas fisicas,pct_receita_tipo,anova_um_fator,3,0.7724869168514515,0.4627825486450238
+cristaos_direita_centro_esquerda,2018,federal,Recursos proprios,valor_receita,anova_um_fator,3,3.70266567994767,0.02579545368240086
+cristaos_direita_centro_esquerda,2018,federal,Recursos proprios,pct_receita_tipo,anova_um_fator,3,2.4540328357355667,0.0876758160532588
+cristaos_direita_centro_esquerda,2018,federal,Recursos de partido politico,valor_receita,anova_um_fator,3,5.930468595074874,0.0029799085175954356
+cristaos_direita_centro_esquerda,2018,federal,Recursos de partido politico,pct_receita_tipo,anova_um_fator,3,0.9553575299794121,0.38584562014340035
+cristaos_direita_centro_esquerda,2018,federal,Recursos de outros candidatos,valor_receita,anova_um_fator,3,1.4126213746740435,0.24512445695633692
+cristaos_direita_centro_esquerda,2018,federal,Recursos de outros candidatos,pct_receita_tipo,anova_um_fator,3,0.14126396860770077,0.8683180018925767
+cristaos_direita_centro_esquerda,2018,federal,Recursos de Financiamento Coletivo,valor_receita,anova_um_fator,3,6.79317532069573,0.0013026451377462476
+cristaos_direita_centro_esquerda,2018,federal,Recursos de Financiamento Coletivo,pct_receita_tipo,anova_um_fator,3,3.932472616937546,0.020616947234890312
+cristaos_direita_centro_esquerda,2018,estadual,Recursos de Financiamento Coletivo,valor_receita,anova_um_fator,3,3.3719250034397446,0.034927774242017276
+cristaos_direita_centro_esquerda,2018,estadual,Recursos de Financiamento Coletivo,pct_receita_tipo,anova_um_fator,3,2.700005594840548,0.06796241385155977
+cristaos_direita_centro_esquerda,2018,federal,Recursos de origens nao identificadas,valor_receita,anova_um_fator,3,0.8489665774833679,0.42888556295911723
+cristaos_direita_centro_esquerda,2018,federal,Recursos de origens nao identificadas,pct_receita_tipo,anova_um_fator,3,0.9946398714812972,0.3710769779421135
+cristaos_direita_centro_esquerda,2018,estadual,Recursos de origens nao identificadas,valor_receita,anova_um_fator,3,0.7774920031194151,0.45998601379143866
+cristaos_direita_centro_esquerda,2018,estadual,Recursos de origens nao identificadas,pct_receita_tipo,anova_um_fator,3,0.851710754657969,0.42716217935887546
+cristaos_direita_centro_esquerda,2018,estadual,Rendimentos de aplicacoes financeiras,valor_receita,anova_um_fator,3,0.5211704892490872,0.5940741551406202
+cristaos_direita_centro_esquerda,2018,estadual,Rendimentos de aplicacoes financeiras,pct_receita_tipo,anova_um_fator,3,0.26445909429596953,0.767703984948969
+cristaos_direita_centro_esquerda,2018,estadual,Doacoes pela Internet,valor_receita,anova_um_fator,3,0.6477059465357331,0.5235836884794193
+cristaos_direita_centro_esquerda,2018,estadual,Doacoes pela Internet,pct_receita_tipo,anova_um_fator,3,0.6477059465357332,0.5235836884794192
+cristaos_direita_centro_esquerda,2020,municipal,Recursos proprios,valor_receita,anova_um_fator,3,1.6657975372952045,0.18907006949033497
+cristaos_direita_centro_esquerda,2020,municipal,Recursos proprios,pct_receita_tipo,anova_um_fator,3,3.534608243079001,0.02919119284014964
+cristaos_direita_centro_esquerda,2020,municipal,Recursos de outros candidatos,valor_receita,anova_um_fator,3,4.040778132518146,0.017600337986205482
+cristaos_direita_centro_esquerda,2020,municipal,Recursos de outros candidatos,pct_receita_tipo,anova_um_fator,3,8.95807333287152,0.00012929027032009362
+cristaos_direita_centro_esquerda,2020,municipal,Recursos de pessoas fisicas,valor_receita,anova_um_fator,3,9.869026932819644,5.204423554024982e-05
+cristaos_direita_centro_esquerda,2020,municipal,Recursos de pessoas fisicas,pct_receita_tipo,anova_um_fator,3,1.78786668727862,0.16734755754723077
+cristaos_direita_centro_esquerda,2020,municipal,Recursos de partido politico,valor_receita,anova_um_fator,3,8.375286799733264,0.0002314270766948549
+cristaos_direita_centro_esquerda,2020,municipal,Recursos de partido politico,pct_receita_tipo,anova_um_fator,3,54.34978082381235,2.950091993544275e-24
+cristaos_direita_centro_esquerda,2020,municipal,Recursos de origens nao identificadas,valor_receita,anova_um_fator,3,1.2978512953894275,0.27314453171890607
+cristaos_direita_centro_esquerda,2020,municipal,Recursos de origens nao identificadas,pct_receita_tipo,anova_um_fator,3,3.8912632063386146,0.02043736199852825
+cristaos_direita_centro_esquerda,2020,municipal,Recursos de Financiamento Coletivo,valor_receita,anova_um_fator,3,1.7319074173926654,0.17697717164663
+cristaos_direita_centro_esquerda,2020,municipal,Recursos de Financiamento Coletivo,pct_receita_tipo,anova_um_fator,3,2.5020986697077925,0.08194247182064816
+cristaos_direita_centro_esquerda,2020,municipal,Rendimentos de aplicacoes financeiras,valor_receita,anova_um_fator,3,0.1869517652243186,0.8294854166152432
+cristaos_direita_centro_esquerda,2020,municipal,Rendimentos de aplicacoes financeiras,pct_receita_tipo,anova_um_fator,3,0.3277317420298854,0.7205607501463673
+cristaos_direita_centro_esquerda,2020,municipal,Doacoes pela Internet,valor_receita,anova_um_fator,3,2.3121851695192825,0.0990751097016899
+cristaos_direita_centro_esquerda,2020,municipal,Doacoes pela Internet,pct_receita_tipo,anova_um_fator,3,3.05733943891975,0.047037942220956655
+cristaos_direita_centro_esquerda,2022,federal,Recursos de partido politico,valor_receita,anova_um_fator,3,6.973667227276282,0.0010534274906284426
+cristaos_direita_centro_esquerda,2022,federal,Recursos de partido politico,pct_receita_tipo,anova_um_fator,3,3.7037030393412316,0.025474528301730356
+cristaos_direita_centro_esquerda,2022,federal,Recursos de pessoas fisicas,valor_receita,anova_um_fator,3,0.68235708769732,0.5060072272667064
+cristaos_direita_centro_esquerda,2022,federal,Recursos de pessoas fisicas,pct_receita_tipo,anova_um_fator,3,1.2643114773464479,0.2835514953023641
+cristaos_direita_centro_esquerda,2022,estadual,Recursos de outros candidatos,valor_receita,anova_um_fator,3,4.184431552374519,0.01562838955047731
+cristaos_direita_centro_esquerda,2022,estadual,Recursos de outros candidatos,pct_receita_tipo,anova_um_fator,3,4.5083130564091425,0.011351291965192595
+cristaos_direita_centro_esquerda,2022,estadual,Recursos de partido politico,valor_receita,anova_um_fator,3,7.1376724981535915,0.0008560899994784278
+cristaos_direita_centro_esquerda,2022,estadual,Recursos de partido politico,pct_receita_tipo,anova_um_fator,3,22.456655930448967,3.617396262236162e-10
+cristaos_direita_centro_esquerda,2022,estadual,Recursos de pessoas fisicas,valor_receita,anova_um_fator,3,1.104913064850411,0.3318388931122921
+cristaos_direita_centro_esquerda,2022,estadual,Recursos de pessoas fisicas,pct_receita_tipo,anova_um_fator,3,1.6595987290447507,0.19099163553686516
+cristaos_direita_centro_esquerda,2022,estadual,Recursos proprios,valor_receita,anova_um_fator,3,0.8771720014206,0.41643187761309314
+cristaos_direita_centro_esquerda,2022,estadual,Recursos proprios,pct_receita_tipo,anova_um_fator,3,0.21588265917123015,0.805885552217701
+cristaos_direita_centro_esquerda,2022,federal,Recursos de outros candidatos,valor_receita,anova_um_fator,3,2.8751235133634974,0.05756707040122434
+cristaos_direita_centro_esquerda,2022,federal,Recursos de outros candidatos,pct_receita_tipo,anova_um_fator,3,0.7382136176182935,0.4786121798715088
+cristaos_direita_centro_esquerda,2022,federal,Recursos proprios,valor_receita,anova_um_fator,3,2.594494045789423,0.07593080374526498
+cristaos_direita_centro_esquerda,2022,federal,Recursos proprios,pct_receita_tipo,anova_um_fator,3,0.14474273024287887,0.8652898262886688
+cristaos_direita_centro_esquerda,2022,federal,Recursos de Financiamento Coletivo,valor_receita,anova_um_fator,3,1.6182351668702266,0.19953377259572364
+cristaos_direita_centro_esquerda,2022,federal,Recursos de Financiamento Coletivo,pct_receita_tipo,anova_um_fator,3,0.6835047767321494,0.5054287808132261
+cristaos_direita_centro_esquerda,2022,estadual,Rendimentos de aplicacoes financeiras,valor_receita,anova_um_fator,3,0.39262955120114923,0.6754332057421976
+cristaos_direita_centro_esquerda,2022,estadual,Rendimentos de aplicacoes financeiras,pct_receita_tipo,anova_um_fator,3,0.31288111046996203,0.7314430201343393
+cristaos_direita_centro_esquerda,2022,estadual,Recursos de origens nao identificadas,valor_receita,anova_um_fator,3,1.1646728638301544,0.31265187352726964
+cristaos_direita_centro_esquerda,2022,estadual,Recursos de origens nao identificadas,pct_receita_tipo,anova_um_fator,3,0.42735617884179433,0.6524078091595185
+cristaos_direita_centro_esquerda,2022,estadual,Recursos de Financiamento Coletivo,valor_receita,anova_um_fator,3,6.476698986120813,0.0016364136444025012
+cristaos_direita_centro_esquerda,2022,estadual,Recursos de Financiamento Coletivo,pct_receita_tipo,anova_um_fator,3,1.197090788445353,0.30271313889987
+cristaos_direita_centro_esquerda,2022,federal,Recursos de origens nao identificadas,valor_receita,anova_um_fator,3,0.39309145995902206,0.6752255259761328
+cristaos_direita_centro_esquerda,2022,federal,Recursos de origens nao identificadas,pct_receita_tipo,anova_um_fator,3,0.3930914599590216,0.6752255259761332
+cristaos_direita_centro_esquerda,2022,federal,Rendimentos de aplicacoes financeiras,valor_receita,anova_um_fator,3,2.411603811758352,0.09096444290644115
+cristaos_direita_centro_esquerda,2022,federal,Rendimentos de aplicacoes financeiras,pct_receita_tipo,anova_um_fator,3,2.1000814266022947,0.1237845035803249
+cristaos_direita_centro_esquerda,2024,municipal,Recursos de partido politico,valor_receita,anova_um_fator,3,8.953597004223129,0.00012999945529112162
+cristaos_direita_centro_esquerda,2024,municipal,Recursos de partido politico,pct_receita_tipo,anova_um_fator,3,123.27769082918927,8.293229486505732e-54
+cristaos_direita_centro_esquerda,2024,municipal,Recursos de pessoas fisicas,valor_receita,anova_um_fator,3,2.20709542514819,0.11005732464792767
+cristaos_direita_centro_esquerda,2024,municipal,Recursos de pessoas fisicas,pct_receita_tipo,anova_um_fator,3,1.679288583572426,0.18654349091893674
+cristaos_direita_centro_esquerda,2024,municipal,Recursos de outros candidatos,valor_receita,anova_um_fator,3,13.949608391968178,8.865031608329551e-07
+cristaos_direita_centro_esquerda,2024,municipal,Recursos de outros candidatos,pct_receita_tipo,anova_um_fator,3,30.579005379666572,5.5988867695151284e-14
+cristaos_direita_centro_esquerda,2024,municipal,Recursos proprios,valor_receita,anova_um_fator,3,2.636644623421782,0.07163601937712644
+cristaos_direita_centro_esquerda,2024,municipal,Recursos proprios,pct_receita_tipo,anova_um_fator,3,11.480435321723249,1.0426048566083982e-05
+cristaos_direita_centro_esquerda,2024,municipal,Recursos de Financiamento Coletivo,valor_receita,anova_um_fator,3,4.151454430719137,0.015760532789391855
+cristaos_direita_centro_esquerda,2024,municipal,Recursos de Financiamento Coletivo,pct_receita_tipo,anova_um_fator,3,1.9954635022116343,0.13598858371647682
+cristaos_direita_centro_esquerda,2024,municipal,Recursos de origens nao identificadas,valor_receita,anova_um_fator,3,0.42494475405968457,0.6538141827091938
+cristaos_direita_centro_esquerda,2024,municipal,Recursos de origens nao identificadas,pct_receita_tipo,anova_um_fator,3,0.2334091606672275,0.7918325466236792
+cristaos_direita_centro_esquerda,2024,municipal,Rendimentos de aplicacoes financeiras,valor_receita,anova_um_fator,3,0.6633067338314964,0.5151609596893864
+cristaos_direita_centro_esquerda,2024,municipal,Rendimentos de aplicacoes financeiras,pct_receita_tipo,anova_um_fator,3,0.4781192050687796,0.6199582287503873
+cristaos_direita_centro_esquerda,2024,municipal,Doacoes pela Internet,valor_receita,anova_um_fator,3,0.718492243005612,0.4875043591997806
+cristaos_direita_centro_esquerda,2024,municipal,Doacoes pela Internet,pct_receita_tipo,anova_um_fator,3,0.4302891816694814,0.6503294493658903

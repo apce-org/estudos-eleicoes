@@ -1,0 +1,31 @@
+﻿ESFERA,grupo,tipo_despesa,valor_despesa,total_grupo,proporcao
+estadual,Cristãos de direita,Atividades de militancia e mobilizacao de rua,5480015.52,46993959.87,0.11661106097803713
+estadual,Cristãos de direita,Despesas com pessoal,5984248.22,46993959.87,0.1273407952118592
+estadual,Cristãos de direita,Publicidade por adesivos,2150715.37,46993959.87,0.04576578300593421
+estadual,Cristãos de direita,Publicidade por materiais impressos,12435968.01,46993959.87,0.26462907242551553
+estadual,Cristãos de direita,Servicos prestados por terceiros,4771681.22,46993959.87,0.10153818135777372
+estadual,Cristãos de esquerda,Atividades de militancia e mobilizacao de rua,1161101.69,15044818.18,0.07717618625285373
+estadual,Cristãos de esquerda,Despesas com pessoal,2336825.66,15044818.18,0.15532428720916588
+estadual,Cristãos de esquerda,Publicidade por adesivos,830627.01,15044818.18,0.05521017270279833
+estadual,Cristãos de esquerda,Publicidade por materiais impressos,4003808.48,15044818.18,0.26612541488354496
+estadual,Cristãos de esquerda,Servicos prestados por terceiros,1644998.29,15044818.18,0.1093398584362287
+federal,Cristãos de direita,Atividades de militancia e mobilizacao de rua,8835661.76,86931298.41,0.10163959266233166
+federal,Cristãos de direita,Despesas com pessoal,13653922.33,86931298.41,0.15706566656353246
+federal,Cristãos de direita,Publicidade por adesivos,6215884.32,86931298.41,0.07150341055167038
+federal,Cristãos de direita,Publicidade por materiais impressos,21879082.25,86931298.41,0.25168245097191805
+federal,Cristãos de direita,Servicos prestados por terceiros,8940321.8,86931298.41,0.10284353234705126
+federal,Cristãos de esquerda,Atividades de militancia e mobilizacao de rua,1769450.27,26670441.13,0.06634499449690955
+federal,Cristãos de esquerda,Despesas com pessoal,3319551.8,26670441.13,0.12446557534685966
+federal,Cristãos de esquerda,Publicidade por adesivos,712530.06,26670441.13,0.02671609579035111
+federal,Cristãos de esquerda,Publicidade por materiais impressos,5767768.54,26670441.13,0.21626071019545975
+federal,Cristãos de esquerda,Servicos prestados por terceiros,2417547.58,26670441.13,0.09064520411252756
+municipal,Cristãos de direita,Atividades de militancia e mobilizacao de rua,15818265.1,108703711.55,0.14551724936019445
+municipal,Cristãos de direita,Baixa de Estimaveis - Publicidade por materiais impressos,18028136.369999997,108703711.55,0.1658465577020125
+municipal,Cristãos de direita,Despesas com pessoal,11791505.64,108703711.55,0.10847380896075762
+municipal,Cristãos de direita,Publicidade por materiais impressos,22117849.47,108703711.55,0.2034691286490852
+municipal,Cristãos de direita,Servicos prestados por terceiros,6216708.45,108703711.55,0.057189477354142836
+municipal,Cristãos de esquerda,Atividades de militancia e mobilizacao de rua,2990260.11,25020518.96,0.11951231366465628
+municipal,Cristãos de esquerda,Baixa de Estimaveis - Publicidade por materiais impressos,962108.86,25020518.96,0.03845279394636505
+municipal,Cristãos de esquerda,Despesas com pessoal,2896834.1,25020518.96,0.1157783379565841
+municipal,Cristãos de esquerda,Publicidade por materiais impressos,6297001.15,25020518.96,0.2516734828748732
+municipal,Cristãos de esquerda,Servicos prestados por terceiros,1696868.93,25020518.96,0.06781909410882979

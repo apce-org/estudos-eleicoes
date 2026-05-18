@@ -1,0 +1,1 @@
+Para gerar o mapa municipal, rode este script com --municipal-geojson apontando para um GeoJSON municipal com código IBGE em properties.codigo_ibge_municipio.

@@ -1,0 +1,17 @@
+.venv/
+.browser_state/
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+.env
+data/raw/*
+data/interim/*
+data/processed/*
+reports/figures/*
+reports/presentation/*.html
+outputs/bases/*.csv
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+!reports/figures/.gitkeep
