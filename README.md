@@ -27,6 +27,24 @@ O repositório organiza rotinas de coleta, limpeza, classificação, cruzamento 
 
 As pastas `data/raw`, `data/interim`, `data/processed`, `outputs/bases` e `.browser_state` não devem ser usadas como fonte de verdade no Git. Elas podem conter arquivos grandes, dados gerados ou estado local de navegador.
 
+## Como clonar o repositório
+
+Para baixar o projeto na sua máquina, escolha uma pasta de trabalho e rode:
+
+```powershell
+git clone https://github.com/apce-org/estudos-eleicoes.git
+cd estudos-eleicoes
+```
+
+Se você já usa chave SSH no GitHub, também pode clonar assim:
+
+```powershell
+git clone git@github.com:apce-org/estudos-eleicoes.git
+cd estudos-eleicoes
+```
+
+Depois de clonar, todos os comandos abaixo devem ser executados dentro da pasta `estudos-eleicoes`.
+
 ## Instalação
 
 Requisitos principais:
