@@ -27,6 +27,25 @@ O repositório organiza rotinas de coleta, limpeza, classificação, cruzamento 
 
 As pastas `data/raw`, `data/interim`, `data/processed`, `outputs/bases` e `.browser_state` não devem ser usadas como fonte de verdade no Git. Elas podem conter arquivos grandes, dados gerados ou estado local de navegador.
 
+## Antes de clonar: instalar o Git
+
+O Git é o programa que permite baixar o repositório, acompanhar mudanças e enviar contribuições de volta para o GitHub.
+
+No Windows:
+
+1. Acesse `https://git-scm.com/downloads/win`.
+2. Baixe o instalador do Git for Windows.
+3. Execute o instalador.
+4. Pode manter as opções padrão na instalação.
+5. Ao final, abra o PowerShell ou o Git Bash.
+6. Verifique se o Git foi instalado:
+
+```powershell
+git --version
+```
+
+Se aparecer algo como `git version 2.x.x`, está tudo certo. Se o comando não for reconhecido, feche e abra novamente o terminal. Se ainda assim não funcionar, reinicie o computador.
+
 ## Como clonar o repositório
 
 Para baixar o projeto na sua máquina, escolha uma pasta de trabalho e rode:
